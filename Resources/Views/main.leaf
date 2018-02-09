@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LaSalleChat</title>
+        <link rel="stylesheet" href="styles/style.css">
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+    </head>
+
+        <body>
+            <div class="chatbox" id="chatbox">
+                <div class="chatrefresh" id="chatrefresh">
+                    <div class="chatlogs" id="chatlogs">
+                    </div>
+                </div>
+                <div class="chat-form">
+                    <input type="text">
+                    <button type="submit" id="mybutton2">SEND</button>
+                </div>
+                <div class="chat-info">
+                    <p class="chat-info-txt">Press "Sync" to start chatting</p>
+                    <button type="submit" id="mybutton" class="chat-sync">Sync</button>
+                </div>
+            </div>
+        </body>
+        <script>
+            
+            $("#()mybutton").click(update);
+            $("#()mybutton2").click(setClicked);
+            $("#()mybutton2").click(update);
+
+            var clicked = false;
+            var pos = 0;
+            
+
+            function update() {
+                var txt = $("input").val();
+                pos = $("#()chatlogs2").scrollTop();
+                if (txt && clicked) {
+                    $.post ("http://localhost:8080/chatSecond", {messageText: txt}, function(data) {
+                            $("#()chatrefresh").html(data);
+                            window.setTimeout(update, 3000);
+                            $("#()chatlogs2").scrollTop (pos);
+                            });
+                    clicked = false;
+                } else {
+                    $.post ("http://localhost:8080/chatSecond", function(data) {
+                            $("#()chatrefresh").html(data);
+                            window.setTimeout(update, 3000);
+                            $("#()chatlogs2").scrollTop (pos);
+                            });
+                }
+            }
+        
+        
+        
+            function setClicked () {
+                clicked = true;
+            }
+        
+        </script>
+    
+</html>
