@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.build/master.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/debugging.git--2113008671667154546/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.swiftdeps"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/master.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Certificates.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Certificates.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Certificates.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Certificates~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Certificates.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ClientSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ClientSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ClientSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ClientSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ClientSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Context.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Context.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Context.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Context.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Error.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Error.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Error.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Error.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Exports.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Exports.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Exports.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Exports.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/InternetSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/InternetSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/InternetSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/InternetSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/InternetSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Mode.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Mode.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Mode.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Mode~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Mode.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ReadableSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ReadableSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ReadableSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ReadableSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ReadableSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ServerSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ServerSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ServerSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ServerSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/ServerSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Socket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Socket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Socket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Socket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Utilities.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Utilities.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Utilities.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/Utilities.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/WriteableSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/WriteableSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/WriteableSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/WriteableSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.build/WriteableSocket.swiftdeps"
+  }
+}

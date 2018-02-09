@@ -1,0 +1,137 @@
+{
+  "": {
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/master.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Address/Address.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address/Address.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Address/Address+C.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address+C.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address/Address+C.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address+C~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Address+C.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Core/Buffer.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Buffer.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Core/Buffer.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Buffer~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Buffer.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Core/Conversions.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Conversions.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Core/Conversions.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Conversions~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Conversions.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Core/Error.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Error.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Core/Error.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Error.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Core/FDSet.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/FDSet.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Core/FDSet.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/FDSet~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/FDSet.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Core/Types.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Types.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Core/Types.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Types~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Types.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Exports.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Exports.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Exports.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Exports.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/Config.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Config.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/Config.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Config.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/Descriptor.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Descriptor.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/Descriptor.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Descriptor~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Descriptor.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/InternetSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/InternetSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/InternetSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/InternetSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/InternetSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/Pipe.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Pipe.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/Pipe.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Pipe~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Pipe.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/RawSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/RawSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/RawSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/RawSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/RawSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/Select.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Select.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/Select.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Select~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Select.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/Socket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/Socket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/Socket/SocketOptions.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/SocketOptions.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/Socket/SocketOptions.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/SocketOptions~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/SocketOptions.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/TCP/TCPEstablishedSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPEstablishedSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCP/TCPEstablishedSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPEstablishedSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPEstablishedSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/TCP/TCPInternetSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPInternetSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCP/TCPInternetSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPInternetSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPInternetSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/TCP/TCPReadableSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPReadableSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCP/TCPReadableSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPReadableSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPReadableSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/TCP/TCPSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCP/TCPSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/TCP/TCPWriteableSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPWriteableSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCP/TCPWriteableSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPWriteableSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/TCPWriteableSocket.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Sockets/UDP/UDPSocket.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/UDPSocket.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/UDP/UDPSocket.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/UDPSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.build/UDPSocket.swiftdeps"
+  }
+}

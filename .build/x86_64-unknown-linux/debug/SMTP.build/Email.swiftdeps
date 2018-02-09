@@ -1,0 +1,154 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Email"
+provides-nominal:
+- "4SMTP5EmailC"
+provides-member:
+- ["4SMTP5EmailC", ""]
+- ["4SMTP5EmailC", "init"]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Date"
+- "Email"
+- "EmailAddress"
+- "EmailAddressRepresentable"
+- "EmailAttachmentRepresentable"
+- "EmailBody"
+- "EmailBodyRepresentable"
+- "NSUUID"
+- "String"
+depends-member:
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s10CollectionP", "map"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- ["s28CustomDebugStringConvertibleP", "smtpMessageId"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- ["s23CustomStringConvertibleP", "smtpMessageId"]
+- ["10Foundation4DateV", "init"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "map"]
+- ["4SMTP5EmailC", "Date"]
+- ["4SMTP5EmailC", "EmailAddress"]
+- ["4SMTP5EmailC", "EmailAddressRepresentable"]
+- ["4SMTP5EmailC", "EmailAttachmentRepresentable"]
+- ["4SMTP5EmailC", "EmailBody"]
+- ["4SMTP5EmailC", "EmailBodyRepresentable"]
+- ["4SMTP5EmailC", "NSUUID"]
+- ["4SMTP5EmailC", "String"]
+- ["4SMTP5EmailC", "attachments"]
+- ["4SMTP5EmailC", "body"]
+- ["4SMTP5EmailC", "date"]
+- ["4SMTP5EmailC", "deinit"]
+- ["4SMTP5EmailC", "extendedFields"]
+- ["4SMTP5EmailC", "from"]
+- ["4SMTP5EmailC", "id"]
+- ["4SMTP5EmailC", "init"]
+- ["4SMTP5EmailC", "subject"]
+- ["4SMTP5EmailC", "to"]
+- !private ["4SMTP25EmailAddressRepresentableP", "emailAddress"]
+- !private ["4SMTP22EmailBodyRepresentableP", "emailBody"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "map"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "smtpMessageId"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "smtpMessageId"]
+- !private ["s17MutableCollectionP", "map"]
+- ["10Foundation8NSCodingP", "smtpMessageId"]
+- ["10Foundation9NSCopyingP", "smtpMessageId"]
+- ["10Foundation8NSObjectC", "smtpMessageId"]
+- ["10Foundation16NSObjectProtocolP", "smtpMessageId"]
+- ["10Foundation14NSSecureCodingP", "smtpMessageId"]
+- ["10Foundation6NSUUIDC", "smtpMessageId"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "map"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "map"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- ["s35_HasCustomAnyHashableRepresentationP", "smtpMessageId"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s17_MutableIndexableP", "map"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "map"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "map"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+- ["10Foundation17_StructBridgeableP", "smtpMessageId"]
+- ["10Foundation21_StructTypeBridgeableP", "smtpMessageId"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "s9DecodableP"
+- "4SMTP5EmailC"
+- !private "4SMTP25EmailAddressRepresentableP"
+- !private "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s8HashableP"
+- !private "s17MutableCollectionP"
+- "10Foundation8NSCodingP"
+- "10Foundation9NSCopyingP"
+- "10Foundation8NSObjectC"
+- "10Foundation16NSObjectProtocolP"
+- "10Foundation14NSSecureCodingP"
+- "10Foundation6NSUUIDC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- "10Foundation17_StructBridgeableP"
+- "10Foundation21_StructTypeBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "476f32cecf7ed642208077fa7fed7ed8"

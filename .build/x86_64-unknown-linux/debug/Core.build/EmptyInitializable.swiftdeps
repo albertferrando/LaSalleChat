@@ -1,0 +1,27 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmptyInitializable"
+provides-nominal:
+- "4Core18EmptyInitializableP"
+provides-member:
+- ["4Core18EmptyInitializableP", ""]
+depends-top-level:
+- "EmptyInitializable"
+depends-member:
+- ["4Core18EmptyInitializableP", "init"]
+depends-nominal:
+- "4Core18EmptyInitializableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "02d28c7b7c665087a5f3d7a25a4c83a7"

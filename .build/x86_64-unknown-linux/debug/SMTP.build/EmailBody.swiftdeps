@@ -1,0 +1,109 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmailBody"
+- "=="
+provides-nominal:
+- "4SMTP9EmailBodyV"
+- "4SMTP9EmailBodyV0C4TypeO"
+provides-member:
+- ["4SMTP9EmailBodyV", ""]
+- ["4SMTP9EmailBodyV0C4TypeO", ""]
+depends-top-level:
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "EmailBody"
+- "Equatable"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+depends-member:
+- !private ["s13BinaryIntegerP", "hashValue"]
+- ["4SMTP9EmailBodyV0C4TypeO", "__derived_enum_equals"]
+- ["4SMTP9EmailBodyV0C4TypeO", "deinit"]
+- ["4SMTP9EmailBodyV0C4TypeO", "hashValue"]
+- ["4SMTP9EmailBodyV0C4TypeO", "html"]
+- ["4SMTP9EmailBodyV0C4TypeO", "plain"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s9DecodableP", "hashValue"]
+- ["4SMTP9EmailBodyV", "BodyType"]
+- ["4SMTP9EmailBodyV", "String"]
+- ["4SMTP9EmailBodyV", "content"]
+- ["4SMTP9EmailBodyV", "deinit"]
+- ["4SMTP9EmailBodyV", "init"]
+- ["4SMTP9EmailBodyV", "type"]
+- !private ["4SMTP22EmailBodyRepresentableP", "content"]
+- !private ["4SMTP22EmailBodyRepresentableP", "type"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EquatableP", "content"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "plain"]
+- !private ["s9EquatableP", "type"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "plain"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s7NumericP", "hashValue"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["10Foundation17_ObjectBridgeableP", "hashValue"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "hashValue"]
+- !private ["s11_StrideableP", "hashValue"]
+depends-nominal:
+- !private "s13BinaryIntegerP"
+- "4SMTP9EmailBodyV0C4TypeO"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- "4SMTP9EmailBodyV"
+- !private "4SMTP22EmailBodyRepresentableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s7NumericP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+- !private "s11_StrideableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "578a8a17f945abade2328a15584dbe40"

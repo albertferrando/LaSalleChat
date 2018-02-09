@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4HTTP8ResponseC", ""]
+- ["4HTTP8ResponseC", "init"]
+depends-top-level:
+- "ChunkStream"
+- "HeaderKey"
+- "Response"
+- "Status"
+- "String"
+- "Void"
+depends-member:
+- !private ["4HTTP4BodyO", "chunked"]
+- !private ["4HTTP17BodyRepresentableP", "chunked"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9EquatableP", "ok"]
+- !private ["s25ExpressibleByArrayLiteralP", "chunked"]
+- !private ["s8HashableP", "ok"]
+- ["4HTTP9HeaderKeyV", "deinit"]
+- !private ["4HTTP7MessageP", "init"]
+- ["4HTTP8ResponseC", "ChunkStream"]
+- ["4HTTP8ResponseC", "HeaderKey"]
+- ["4HTTP8ResponseC", "Status"]
+- ["4HTTP8ResponseC", "String"]
+- ["4HTTP8ResponseC", "Void"]
+- ["4HTTP8ResponseC", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["4HTTP6StatusO", "ok"]
+depends-nominal:
+- !private "4HTTP4BodyO"
+- !private "4HTTP17BodyRepresentableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s8HashableP"
+- "4HTTP9HeaderKeyV"
+- !private "4HTTP7MessageP"
+- "4HTTP8ResponseC"
+- !private "4HTTP21ResponseRepresentableP"
+- !private "4HTTP6StatusO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "dea4941818dbc9848e63d1beaf50dc83"

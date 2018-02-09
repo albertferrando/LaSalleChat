@@ -1,0 +1,98 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AsyncResponder"
+- "BasicAsyncResponder"
+- "AsyncResponseWriter"
+- "BasicAsyncResponseWriter"
+provides-nominal:
+- "4HTTP14AsyncResponderP"
+- "4HTTP19BasicAsyncResponderV"
+- "4HTTP19AsyncResponseWriterP"
+- "4HTTP24BasicAsyncResponseWriterV"
+provides-member:
+- ["4HTTP14AsyncResponderP", ""]
+- ["4HTTP19BasicAsyncResponderV", ""]
+- ["4HTTP19AsyncResponseWriterP", ""]
+- ["4HTTP24BasicAsyncResponseWriterV", ""]
+- ["4HTTP14AsyncResponderP", "respondSync"]
+- ["4HTTP14AsyncResponderP", "respond"]
+- ["4HTTP19AsyncResponseWriterP", "write"]
+depends-top-level:
+- "AssignmentPrecedence"
+- "AsyncResponder"
+- "AsyncResponseWriter"
+- "BasicAsyncResponder"
+- "BasicAsyncResponseWriter"
+- !private "DispatchSemaphore"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Request"
+- "Response"
+- "ResponseRepresentable"
+depends-member:
+- ["4HTTP14AsyncResponderP", "AsyncResponseWriter"]
+- !private ["4HTTP14AsyncResponderP", "BasicAsyncResponseWriter"]
+- !private ["4HTTP14AsyncResponderP", "DispatchSemaphore"]
+- ["4HTTP14AsyncResponderP", "Request"]
+- ["4HTTP14AsyncResponderP", "Response"]
+- !private ["4HTTP14AsyncResponderP", "closure"]
+- ["4HTTP14AsyncResponderP", "respond"]
+- ["4HTTP14AsyncResponderP", "respondSync"]
+- ["4HTTP14AsyncResponderP", ""]
+- ["4HTTP19AsyncResponseWriterP", "Response"]
+- ["4HTTP19AsyncResponseWriterP", "ResponseRepresentable"]
+- !private ["4HTTP19AsyncResponseWriterP", "closure"]
+- !private ["4HTTP19AsyncResponseWriterP", "init"]
+- ["4HTTP19AsyncResponseWriterP", "write"]
+- ["4HTTP19AsyncResponseWriterP", ""]
+- ["4HTTP19BasicAsyncResponderV", "AsyncResponseWriter"]
+- ["4HTTP19BasicAsyncResponderV", "Closure"]
+- ["4HTTP19BasicAsyncResponderV", "Request"]
+- ["4HTTP19BasicAsyncResponderV", "closure"]
+- ["4HTTP19BasicAsyncResponderV", "deinit"]
+- ["4HTTP19BasicAsyncResponderV", "init"]
+- ["4HTTP19BasicAsyncResponderV", "respond"]
+- ["4HTTP24BasicAsyncResponseWriterV", "Closure"]
+- ["4HTTP24BasicAsyncResponseWriterV", "Response"]
+- ["4HTTP24BasicAsyncResponseWriterV", "closure"]
+- ["4HTTP24BasicAsyncResponseWriterV", "deinit"]
+- ["4HTTP24BasicAsyncResponseWriterV", "init"]
+- ["4HTTP24BasicAsyncResponseWriterV", "write"]
+- !private ["8Dispatch0A6ObjectC", "signal"]
+- !private ["8Dispatch0A6ObjectC", "wait"]
+- !private ["8Dispatch0A9SemaphoreC", "init"]
+- !private ["8Dispatch0A9SemaphoreC", "signal"]
+- !private ["8Dispatch0A9SemaphoreC", "wait"]
+- !private ["4HTTP8ResponseC", "deinit"]
+- !private ["4HTTP21ResponseRepresentableP", "makeResponse"]
+depends-nominal:
+- "4HTTP14AsyncResponderP"
+- "4HTTP19AsyncResponseWriterP"
+- "4HTTP19BasicAsyncResponderV"
+- "4HTTP24BasicAsyncResponseWriterV"
+- !private "8Dispatch0A6ObjectC"
+- !private "8Dispatch0A9SemaphoreC"
+- !private "4HTTP8ResponseC"
+- !private "4HTTP21ResponseRepresentableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "ae2048c91265dc0ac01eb51fc40d6284"

@@ -1,0 +1,233 @@
+{
+  "": {
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/master.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Accessors/Getters.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Getters.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Accessors/Getters.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Getters~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Getters.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Accessors/Setters.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Setters.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Accessors/Setters.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Setters~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Setters.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/Bool+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Bool+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/Bool+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Bool+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Bool+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/Date+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Date+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/Date+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Date+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Date+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/FloatingPoint+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FloatingPoint+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/FloatingPoint+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FloatingPoint+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FloatingPoint+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/Integer+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Integer+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/Integer+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Integer+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Integer+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/Schema+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Schema+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/Schema+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Schema+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Schema+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/SchemaWrapper+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/SchemaWrapper+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/SchemaWrapper+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/SchemaWrapper+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/SchemaWrapper+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/String+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/String+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/String+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/String+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/String+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/UnsignedInteger+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UnsignedInteger+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/UnsignedInteger+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UnsignedInteger+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UnsignedInteger+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Convertibles/UUID+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UUID+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Convertibles/UUID+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UUID+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/UUID+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Core/Context.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Context.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Core/Context.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Context.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Core/Node.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Node.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Core/Node.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Node~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Node.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Core/NodeConvertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeConvertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Core/NodeConvertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeConvertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Core/NodeInitializable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeInitializable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Core/NodeInitializable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeInitializable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeInitializable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Core/NodeRepresentable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeRepresentable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Core/NodeRepresentable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/NodeRepresentable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/Array+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Array+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/Array+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Array+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Array+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/Dictionary+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Dictionary+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/Dictionary+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Dictionary+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Dictionary+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/Fuzzy+Any.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy+Any.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/Fuzzy+Any.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy+Any~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy+Any.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/FuzzyConverter.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FuzzyConverter.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/FuzzyConverter.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FuzzyConverter~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/FuzzyConverter.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/Optional+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Optional+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/Optional+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Optional+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Optional+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Fuzzy/Set+Convertible.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Set+Convertible.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Fuzzy/Set+Convertible.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Set+Convertible~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Set+Convertible.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Number/Number.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Number.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Number/Number.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Number~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Number.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredData/StructuredData.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData/StructuredData.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredData/StructuredData+Equatable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Equatable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData/StructuredData+Equatable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Equatable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredData/StructuredData+Init.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Init.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData/StructuredData+Init.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Init~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Init.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredData/StructuredData+PathIndexable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+PathIndexable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData/StructuredData+PathIndexable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+PathIndexable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredData/StructuredData+Polymorphic.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Polymorphic.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData/StructuredData+Polymorphic.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Polymorphic~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredData+Polymorphic.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+Cases.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Cases.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+Cases.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Cases~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Cases.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+Convenience.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Convenience.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+Convenience.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Convenience~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Convenience.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+Equatable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Equatable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+Equatable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Equatable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+Literals.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Literals.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+Literals.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Literals~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Literals.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+PathIndexable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+PathIndexable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+PathIndexable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+PathIndexable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/StructuredDataWrapper/StructuredDataWrapper+Polymorphic.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Polymorphic.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper/StructuredDataWrapper+Polymorphic.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Polymorphic~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/StructuredDataWrapper+Polymorphic.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Utilities/Errors.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Errors.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Utilities/Errors.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Errors.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Utilities/Exports.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Exports.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Exports.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/Node/Utilities/Identifier.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Identifier.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Utilities/Identifier.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Identifier~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.build/Identifier.swiftdeps"
+  }
+}

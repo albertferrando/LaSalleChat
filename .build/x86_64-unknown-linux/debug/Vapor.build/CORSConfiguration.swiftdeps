@@ -1,0 +1,556 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CORSConfigurationError"
+- "AllowOriginSetting"
+- "CORSConfiguration"
+provides-nominal:
+- "5Vapor22CORSConfigurationErrorO"
+- "5Vapor18AllowOriginSettingO"
+- "5Vapor17CORSConfigurationV"
+provides-member:
+- ["5Vapor22CORSConfigurationErrorO", ""]
+- ["5Vapor18AllowOriginSettingO", ""]
+- ["5Vapor17CORSConfigurationV", ""]
+depends-top-level:
+- !private "??"
+- "AllowOriginSetting"
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CORSConfiguration"
+- "CORSConfigurationError"
+- !private "ConfigError"
+- "ConfigInitializable"
+- "Configs"
+- "Error"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Method"
+- "Request"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- !private "UnicodeScalarType"
+- !private "~="
+depends-member:
+- ["5Vapor18AllowOriginSettingO", "Request"]
+- ["5Vapor18AllowOriginSettingO", "String"]
+- ["5Vapor18AllowOriginSettingO", "all"]
+- ["5Vapor18AllowOriginSettingO", "custom"]
+- ["5Vapor18AllowOriginSettingO", "header"]
+- ["5Vapor18AllowOriginSettingO", "none"]
+- ["5Vapor18AllowOriginSettingO", "originBased"]
+- !private ["Sa", "flatMap"]
+- !private ["Sa", "joined"]
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "contains"]
+- !private ["s23BidirectionalCollectionP", "flatMap"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "joined"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s23BidirectionalCollectionP", "uppercased"]
+- !private ["4HTTP17BodyRepresentableP", "contains"]
+- ["4HTTP17BodyRepresentableP", "init"]
+- !private ["4HTTP17BodyRepresentableP", "uppercased"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["4Bits16BytesConvertibleP", "contains"]
+- ["4Bits16BytesConvertibleP", "init"]
+- !private ["4Bits16BytesConvertibleP", "uppercased"]
+- !private ["4Bits18BytesInitializableP", "contains"]
+- ["4Bits18BytesInitializableP", "init"]
+- !private ["4Bits18BytesInitializableP", "uppercased"]
+- !private ["4Bits18BytesRepresentableP", "contains"]
+- ["4Bits18BytesRepresentableP", "init"]
+- !private ["4Bits18BytesRepresentableP", "uppercased"]
+- ["5Vapor17CORSConfigurationV", "AllowOriginSetting"]
+- ["5Vapor17CORSConfigurationV", "Bool"]
+- ["5Vapor17CORSConfigurationV", "CORSConfiguration"]
+- !private ["5Vapor17CORSConfigurationV", "CORSConfigurationError"]
+- !private ["5Vapor17CORSConfigurationV", "ConfigError"]
+- ["5Vapor17CORSConfigurationV", "Configs"]
+- ["5Vapor17CORSConfigurationV", "Int"]
+- ["5Vapor17CORSConfigurationV", "Method"]
+- ["5Vapor17CORSConfigurationV", "String"]
+- ["5Vapor17CORSConfigurationV", "allowCredentials"]
+- ["5Vapor17CORSConfigurationV", "allowedHeaders"]
+- ["5Vapor17CORSConfigurationV", "allowedMethods"]
+- ["5Vapor17CORSConfigurationV", "allowedOrigin"]
+- ["5Vapor17CORSConfigurationV", "cacheExpiration"]
+- ["5Vapor17CORSConfigurationV", "default"]
+- ["5Vapor17CORSConfigurationV", "deinit"]
+- ["5Vapor17CORSConfigurationV", "exposedHeaders"]
+- ["5Vapor17CORSConfigurationV", "init"]
+- ["5Vapor22CORSConfigurationErrorO", "String"]
+- ["5Vapor22CORSConfigurationErrorO", "_code"]
+- ["5Vapor22CORSConfigurationErrorO", "_domain"]
+- ["5Vapor22CORSConfigurationErrorO", "_userInfo"]
+- ["5Vapor22CORSConfigurationErrorO", "configurationFileNotFound"]
+- ["5Vapor22CORSConfigurationErrorO", "deinit"]
+- ["5Vapor22CORSConfigurationErrorO", "missingRequiredConfigurationKey"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "flatMap"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "joined"]
+- !private ["s10CollectionP", "map"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10CollectionP", "uppercased"]
+- !private ["s10ComparableP", "contains"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "uppercased"]
+- !private ["7Configs6ConfigC", "get"]
+- !private ["7Configs6ConfigC", "subscript"]
+- !private ["7Configs6ConfigC", "wrapped"]
+- !private ["7Configs11ConfigErrorO", "missingFile"]
+- ["7Configs19ConfigInitializableP", "CORSConfiguration"]
+- !private ["7Configs19ConfigInitializableP", "CORSConfigurationError"]
+- !private ["7Configs19ConfigInitializableP", "ConfigError"]
+- !private ["7Configs19ConfigInitializableP", "allowCredentials"]
+- !private ["7Configs19ConfigInitializableP", "allowedHeaders"]
+- !private ["7Configs19ConfigInitializableP", "allowedMethods"]
+- !private ["7Configs19ConfigInitializableP", "allowedOrigin"]
+- !private ["7Configs19ConfigInitializableP", "cacheExpiration"]
+- !private ["7Configs19ConfigInitializableP", "exposedHeaders"]
+- ["7Configs19ConfigInitializableP", "init"]
+- ["7Configs19ConfigInitializableP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "flatMap"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "uppercased"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "contains"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "uppercased"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "flatMap"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uppercased"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "array"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- ["s23CustomStringConvertibleP", "delete"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "flatMap"]
+- ["s23CustomStringConvertibleP", "get"]
+- !private ["s23CustomStringConvertibleP", "headers"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "missingFile"]
+- ["s23CustomStringConvertibleP", "options"]
+- ["s23CustomStringConvertibleP", "patch"]
+- ["s23CustomStringConvertibleP", "post"]
+- ["s23CustomStringConvertibleP", "put"]
+- ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uppercased"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "flatMap"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "joined"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "uppercased"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["4SMTP25EmailAddressRepresentableP", "contains"]
+- ["4SMTP25EmailAddressRepresentableP", "init"]
+- !private ["4SMTP25EmailAddressRepresentableP", "uppercased"]
+- !private ["4SMTP22EmailBodyRepresentableP", "contains"]
+- ["4SMTP22EmailBodyRepresentableP", "init"]
+- !private ["4SMTP22EmailBodyRepresentableP", "uppercased"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "flatMap"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "joined"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "uppercased"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "array"]
+- !private ["s9EquatableP", "contains"]
+- ["s9EquatableP", "delete"]
+- !private ["s9EquatableP", "description"]
+- ["s9EquatableP", "get"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "options"]
+- ["s9EquatableP", "patch"]
+- ["s9EquatableP", "post"]
+- ["s9EquatableP", "put"]
+- ["s9EquatableP", "string"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "uppercased"]
+- !private ["s9EquatableP", "wrapped"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "missingFile"]
+- !private ["s5ErrorP", "missingRequiredConfigurationKey"]
+- ["s5ErrorP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "flatMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "get"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "wrapped"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "get"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "wrapped"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "get"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "wrapped"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "get"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "uppercased"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "wrapped"]
+- !private ["s25ExpressibleByFloatLiteralP", "get"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "wrapped"]
+- !private ["s27ExpressibleByIntegerLiteralP", "get"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "wrapped"]
+- !private ["s23ExpressibleByNilLiteralP", "get"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "wrapped"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "get"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "uppercased"]
+- !private ["s26ExpressibleByStringLiteralP", "wrapped"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "get"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "uppercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "wrapped"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "contains"]
+- ["s8HashableP", "delete"]
+- !private ["s8HashableP", "description"]
+- ["s8HashableP", "get"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "options"]
+- ["s8HashableP", "patch"]
+- ["s8HashableP", "post"]
+- ["s8HashableP", "put"]
+- !private ["s8HashableP", "uppercased"]
+- !private ["4HTTP9HeaderKeyV", "init"]
+- !private ["s14JoinedSequenceV", "uppercased"]
+- !private ["4HTTP13KeyAccessibleP", "subscript"]
+- !private ["7Configs13KeyAccessibleP", "subscript"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "uppercased"]
+- !private ["4HTTP7MessageP", "headers"]
+- ["4HTTP6MethodO", "delete"]
+- !private ["4HTTP6MethodO", "description"]
+- ["4HTTP6MethodO", "get"]
+- ["4HTTP6MethodO", "options"]
+- ["4HTTP6MethodO", "patch"]
+- ["4HTTP6MethodO", "post"]
+- ["4HTTP6MethodO", "put"]
+- !private ["s10MirrorPathP", "contains"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "uppercased"]
+- !private ["s17MutableCollectionP", "flatMap"]
+- !private ["s17MutableCollectionP", "joined"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["4Node0A13InitializableP", "_getBuiltinLogicValue"]
+- ["4Node0A13InitializableP", "array"]
+- !private ["4Node0A13InitializableP", "contains"]
+- !private ["4Node0A13InitializableP", "flatMap"]
+- !private ["4Node0A13InitializableP", "get"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "joined"]
+- !private ["4Node0A13InitializableP", "map"]
+- ["4Node0A13InitializableP", "string"]
+- !private ["4Node0A13InitializableP", "subscript"]
+- !private ["4Node0A13InitializableP", "uppercased"]
+- !private ["4Node0A13InitializableP", "wrapped"]
+- !private ["4Node0A13RepresentableP", "_getBuiltinLogicValue"]
+- ["4Node0A13RepresentableP", "array"]
+- !private ["4Node0A13RepresentableP", "contains"]
+- !private ["4Node0A13RepresentableP", "flatMap"]
+- !private ["4Node0A13RepresentableP", "get"]
+- !private ["4Node0A13RepresentableP", "headers"]
+- ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "joined"]
+- !private ["4Node0A13RepresentableP", "map"]
+- ["4Node0A13RepresentableP", "string"]
+- !private ["4Node0A13RepresentableP", "subscript"]
+- !private ["4Node0A13RepresentableP", "uppercased"]
+- !private ["4Node0A13RepresentableP", "wrapped"]
+- !private ["7Routing15ParameterizableP", "contains"]
+- ["7Routing15ParameterizableP", "init"]
+- !private ["7Routing15ParameterizableP", "uppercased"]
+- ["13PathIndexableAAP", "array"]
+- !private ["13PathIndexableAAP", "get"]
+- ["13PathIndexableAAP", "string"]
+- !private ["13PathIndexableAAP", "subscript"]
+- !private ["13PathIndexableAAP", "wrapped"]
+- !private ["13PathIndexable0A7IndexerP", "contains"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- !private ["13PathIndexable0A7IndexerP", "uppercased"]
+- !private ["s22RandomAccessCollectionP", "flatMap"]
+- !private ["s22RandomAccessCollectionP", "joined"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "flatMap"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "joined"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "uppercased"]
+- !private ["4HTTP7RequestC", "headers"]
+- !private ["5Vapor23RequestContentSubscriptP", "contains"]
+- ["5Vapor23RequestContentSubscriptP", "init"]
+- !private ["5Vapor23RequestContentSubscriptP", "uppercased"]
+- !private ["4HTTP21ResponseRepresentableP", "contains"]
+- ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "uppercased"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "flatMap"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "joined"]
+- !private ["s8SequenceP", "map"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s8SequenceP", "uppercased"]
+- !private ["SS", "contains"]
+- ["SS", "init"]
+- !private ["SS", "uppercased"]
+- !private ["s14StringProtocolP", "contains"]
+- ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "uppercased"]
+- ["4Node14StructuredDataO", "array"]
+- ["4Node14StructuredDataO", "string"]
+- !private ["4Node21StructuredDataWrapperP", "get"]
+- !private ["4Node21StructuredDataWrapperP", "subscript"]
+- !private ["4Node21StructuredDataWrapperP", "wrapped"]
+- !private ["s16TextOutputStreamP", "contains"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "uppercased"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "uppercased"]
+- !private ["s14_ArrayProtocolP", "flatMap"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "contains"]
+- !private ["s23_BidirectionalIndexableP", "flatMap"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "joined"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s23_BidirectionalIndexableP", "uppercased"]
+- !private ["10Foundation13_CFBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation13_CFBridgeableP", "contains"]
+- !private ["10Foundation13_CFBridgeableP", "flatMap"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "joined"]
+- !private ["10Foundation13_CFBridgeableP", "map"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "uppercased"]
+- !private ["s24_DestructorSafeContainerP", "flatMap"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "uppercased"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "uppercased"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "contains"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "uppercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "uppercased"]
+- !private ["s33_ExpressibleByStringInterpolationP", "contains"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "uppercased"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s10_IndexableP", "flatMap"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "joined"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s10_IndexableP", "uppercased"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["s14_IndexableBaseP", "flatMap"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "joined"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["s14_IndexableBaseP", "uppercased"]
+- !private ["s17_MutableIndexableP", "flatMap"]
+- !private ["s17_MutableIndexableP", "joined"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["10Foundation13_NSBridgeableP", "contains"]
+- !private ["10Foundation13_NSBridgeableP", "flatMap"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "joined"]
+- !private ["10Foundation13_NSBridgeableP", "map"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "uppercased"]
+- !private ["10Foundation17_ObjectBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation17_ObjectBridgeableP", "contains"]
+- !private ["10Foundation17_ObjectBridgeableP", "flatMap"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "joined"]
+- !private ["10Foundation17_ObjectBridgeableP", "map"]
+- !private ["10Foundation17_ObjectBridgeableP", "subscript"]
+- !private ["10Foundation17_ObjectBridgeableP", "uppercased"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "contains"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "flatMap"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "joined"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "map"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "subscript"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "uppercased"]
+- !private ["s22_RandomAccessIndexableP", "flatMap"]
+- !private ["s22_RandomAccessIndexableP", "joined"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "contains"]
+- !private ["s26_RangeReplaceableIndexableP", "flatMap"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "joined"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "uppercased"]
+- !private ["s16_SwiftStringViewP", "contains"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "uppercased"]
+depends-nominal:
+- "5Vapor18AllowOriginSettingO"
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- "4HTTP17BodyRepresentableP"
+- !private "Sb"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "5Vapor17CORSConfigurationV"
+- "5Vapor22CORSConfigurationErrorO"
+- "s10CollectionP"
+- "s10ComparableP"
+- !private "7Configs6ConfigC"
+- !private "7Configs11ConfigErrorO"
+- "7Configs19ConfigInitializableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "4HTTP9HeaderKeyV"
+- !private "s14JoinedSequenceV"
+- !private "4HTTP13KeyAccessibleP"
+- !private "7Configs13KeyAccessibleP"
+- "s25LosslessStringConvertibleP"
+- !private "4HTTP7MessageP"
+- "4HTTP6MethodO"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "7Routing15ParameterizableP"
+- "13PathIndexableAAP"
+- "13PathIndexable0A7IndexerP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "4HTTP7RequestC"
+- "5Vapor23RequestContentSubscriptP"
+- "4HTTP21ResponseRepresentableP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "4Node14StructuredDataO"
+- !private "4Node21StructuredDataWrapperP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SMTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/FormData.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cache.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Branches.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cookies.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Configs.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sessions.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/WebSockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/BCrypt.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "3d7944eadbacd9cb241fbc725344c29c"

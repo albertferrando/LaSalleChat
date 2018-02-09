@@ -1,0 +1,46 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ServerStream"
+provides-nominal:
+- "9Transport12ServerStreamP"
+provides-member:
+- ["9Transport12ServerStreamP", ""]
+depends-top-level:
+- "DuplexStream"
+- "Int"
+- "InternetStream"
+- "ServerStream"
+depends-member:
+- ["9Transport14InternetStreamP", "Client"]
+- ["9Transport14InternetStreamP", "DuplexStream"]
+- ["9Transport14InternetStreamP", "Int"]
+- ["9Transport14InternetStreamP", "InternetStream"]
+- ["9Transport14InternetStreamP", "accept"]
+- ["9Transport14InternetStreamP", "bind"]
+- ["9Transport14InternetStreamP", "listen"]
+- ["9Transport14InternetStreamP", ""]
+- ["9Transport12ServerStreamP", "Client"]
+- ["9Transport12ServerStreamP", "DuplexStream"]
+- ["9Transport12ServerStreamP", "Int"]
+- ["9Transport12ServerStreamP", "InternetStream"]
+- ["9Transport12ServerStreamP", "accept"]
+- ["9Transport12ServerStreamP", "bind"]
+- ["9Transport12ServerStreamP", "listen"]
+depends-nominal:
+- "9Transport14InternetStreamP"
+- "9Transport12ServerStreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "c5b0aa1a6a59d2d0ed3b596ee1190994"

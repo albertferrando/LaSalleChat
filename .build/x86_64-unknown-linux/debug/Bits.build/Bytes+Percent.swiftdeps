@@ -1,0 +1,260 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["s8SequenceP", ""]
+- ["s8SequenceP", "percentDecoded"]
+- ["s8SequenceP", "percentEncodedForURLQuery"]
+- ["s8SequenceP", "percentEncodedForURLPath"]
+- ["s8SequenceP", "percentEncodedForURLHost"]
+- ["s8SequenceP", "percentEncodedForURLFragment"]
+depends-top-level:
+- !private "??"
+- !private "Array"
+- "Byte"
+- "Bytes"
+- "Sequence"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "addingPercentEncoding"]
+- !private ["s23BidirectionalCollectionP", "makeBytes"]
+- !private ["s23BidirectionalCollectionP", "removingPercentEncoding"]
+- !private ["4Bits16BytesConvertibleP", "addingPercentEncoding"]
+- !private ["4Bits16BytesConvertibleP", "makeBytes"]
+- !private ["4Bits16BytesConvertibleP", "removingPercentEncoding"]
+- !private ["4Bits18BytesInitializableP", "addingPercentEncoding"]
+- !private ["4Bits18BytesInitializableP", "makeBytes"]
+- !private ["4Bits18BytesInitializableP", "removingPercentEncoding"]
+- !private ["4Bits18BytesRepresentableP", "addingPercentEncoding"]
+- !private ["4Bits18BytesRepresentableP", "makeBytes"]
+- !private ["4Bits18BytesRepresentableP", "removingPercentEncoding"]
+- !private ["10Foundation12CharacterSetV", "urlFragmentAllowed"]
+- !private ["10Foundation12CharacterSetV", "urlHostAllowed"]
+- !private ["10Foundation12CharacterSetV", "urlPathAllowed"]
+- !private ["10Foundation12CharacterSetV", "urlQueryAllowed"]
+- !private ["s10CollectionP", "addingPercentEncoding"]
+- !private ["s10CollectionP", "makeBytes"]
+- !private ["s10CollectionP", "removingPercentEncoding"]
+- !private ["s10ComparableP", "addingPercentEncoding"]
+- !private ["s10ComparableP", "makeBytes"]
+- !private ["s10ComparableP", "removingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "addingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "makeBytes"]
+- !private ["s28CustomDebugStringConvertibleP", "removingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "urlFragmentAllowed"]
+- !private ["s28CustomDebugStringConvertibleP", "urlHostAllowed"]
+- !private ["s28CustomDebugStringConvertibleP", "urlPathAllowed"]
+- !private ["s28CustomDebugStringConvertibleP", "urlQueryAllowed"]
+- !private ["s29CustomPlaygroundQuickLookableP", "addingPercentEncoding"]
+- !private ["s29CustomPlaygroundQuickLookableP", "makeBytes"]
+- !private ["s29CustomPlaygroundQuickLookableP", "removingPercentEncoding"]
+- !private ["s17CustomReflectableP", "addingPercentEncoding"]
+- !private ["s17CustomReflectableP", "makeBytes"]
+- !private ["s17CustomReflectableP", "removingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "addingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "makeBytes"]
+- !private ["s23CustomStringConvertibleP", "removingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "urlFragmentAllowed"]
+- !private ["s23CustomStringConvertibleP", "urlHostAllowed"]
+- !private ["s23CustomStringConvertibleP", "urlPathAllowed"]
+- !private ["s23CustomStringConvertibleP", "urlQueryAllowed"]
+- !private ["s9DecodableP", "addingPercentEncoding"]
+- !private ["s9DecodableP", "makeBytes"]
+- !private ["s9DecodableP", "removingPercentEncoding"]
+- !private ["s9DecodableP", "urlFragmentAllowed"]
+- !private ["s9DecodableP", "urlHostAllowed"]
+- !private ["s9DecodableP", "urlPathAllowed"]
+- !private ["s9DecodableP", "urlQueryAllowed"]
+- !private ["s9EncodableP", "addingPercentEncoding"]
+- !private ["s9EncodableP", "makeBytes"]
+- !private ["s9EncodableP", "removingPercentEncoding"]
+- !private ["s9EncodableP", "urlFragmentAllowed"]
+- !private ["s9EncodableP", "urlHostAllowed"]
+- !private ["s9EncodableP", "urlPathAllowed"]
+- !private ["s9EncodableP", "urlQueryAllowed"]
+- !private ["s9EquatableP", "addingPercentEncoding"]
+- !private ["s9EquatableP", "makeBytes"]
+- !private ["s9EquatableP", "removingPercentEncoding"]
+- !private ["s9EquatableP", "urlFragmentAllowed"]
+- !private ["s9EquatableP", "urlHostAllowed"]
+- !private ["s9EquatableP", "urlPathAllowed"]
+- !private ["s9EquatableP", "urlQueryAllowed"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlFragmentAllowed"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlHostAllowed"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlPathAllowed"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlQueryAllowed"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "removingPercentEncoding"]
+- !private ["s26ExpressibleByStringLiteralP", "addingPercentEncoding"]
+- !private ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- !private ["s26ExpressibleByStringLiteralP", "removingPercentEncoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "removingPercentEncoding"]
+- !private ["s8HashableP", "addingPercentEncoding"]
+- !private ["s8HashableP", "makeBytes"]
+- !private ["s8HashableP", "removingPercentEncoding"]
+- !private ["s8HashableP", "urlFragmentAllowed"]
+- !private ["s8HashableP", "urlHostAllowed"]
+- !private ["s8HashableP", "urlPathAllowed"]
+- !private ["s8HashableP", "urlQueryAllowed"]
+- !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
+- !private ["s25LosslessStringConvertibleP", "makeBytes"]
+- !private ["s25LosslessStringConvertibleP", "removingPercentEncoding"]
+- !private ["s10MirrorPathP", "addingPercentEncoding"]
+- !private ["s10MirrorPathP", "makeBytes"]
+- !private ["s10MirrorPathP", "removingPercentEncoding"]
+- !private ["s26RangeReplaceableCollectionP", "addingPercentEncoding"]
+- !private ["s26RangeReplaceableCollectionP", "makeBytes"]
+- !private ["s26RangeReplaceableCollectionP", "removingPercentEncoding"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlFragmentAllowed"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlHostAllowed"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlPathAllowed"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlQueryAllowed"]
+- ["s8SequenceP", "Byte"]
+- ["s8SequenceP", "Bytes"]
+- ["s8SequenceP", "Iterator"]
+- !private ["s8SequenceP", "addingPercentEncoding"]
+- !private ["s8SequenceP", "makeBytes"]
+- !private ["s8SequenceP", "makeString"]
+- ["s8SequenceP", "percentDecoded"]
+- ["s8SequenceP", "percentEncodedForURLFragment"]
+- ["s8SequenceP", "percentEncodedForURLHost"]
+- ["s8SequenceP", "percentEncodedForURLPath"]
+- ["s8SequenceP", "percentEncodedForURLQuery"]
+- !private ["s8SequenceP", "removingPercentEncoding"]
+- !private ["s10SetAlgebraP", "urlFragmentAllowed"]
+- !private ["s10SetAlgebraP", "urlHostAllowed"]
+- !private ["s10SetAlgebraP", "urlPathAllowed"]
+- !private ["s10SetAlgebraP", "urlQueryAllowed"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["SS", "deinit"]
+- !private ["SS", "makeBytes"]
+- !private ["SS", "removingPercentEncoding"]
+- !private ["s14StringProtocolP", "addingPercentEncoding"]
+- !private ["s14StringProtocolP", "makeBytes"]
+- !private ["s14StringProtocolP", "removingPercentEncoding"]
+- !private ["s16TextOutputStreamP", "addingPercentEncoding"]
+- !private ["s16TextOutputStreamP", "makeBytes"]
+- !private ["s16TextOutputStreamP", "removingPercentEncoding"]
+- !private ["s20TextOutputStreamableP", "addingPercentEncoding"]
+- !private ["s20TextOutputStreamableP", "makeBytes"]
+- !private ["s20TextOutputStreamableP", "removingPercentEncoding"]
+- !private ["s23_BidirectionalIndexableP", "addingPercentEncoding"]
+- !private ["s23_BidirectionalIndexableP", "makeBytes"]
+- !private ["s23_BidirectionalIndexableP", "removingPercentEncoding"]
+- !private ["10Foundation13_CFBridgeableP", "addingPercentEncoding"]
+- !private ["10Foundation13_CFBridgeableP", "makeBytes"]
+- !private ["10Foundation13_CFBridgeableP", "removingPercentEncoding"]
+- !private ["10Foundation13_CFBridgeableP", "urlFragmentAllowed"]
+- !private ["10Foundation13_CFBridgeableP", "urlHostAllowed"]
+- !private ["10Foundation13_CFBridgeableP", "urlPathAllowed"]
+- !private ["10Foundation13_CFBridgeableP", "urlQueryAllowed"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "removingPercentEncoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "addingPercentEncoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "makeBytes"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "removingPercentEncoding"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "addingPercentEncoding"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeBytes"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "removingPercentEncoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "removingPercentEncoding"]
+- !private ["s33_ExpressibleByStringInterpolationP", "addingPercentEncoding"]
+- !private ["s33_ExpressibleByStringInterpolationP", "makeBytes"]
+- !private ["s33_ExpressibleByStringInterpolationP", "removingPercentEncoding"]
+- !private ["s10_IndexableP", "addingPercentEncoding"]
+- !private ["s10_IndexableP", "makeBytes"]
+- !private ["s10_IndexableP", "removingPercentEncoding"]
+- !private ["s14_IndexableBaseP", "addingPercentEncoding"]
+- !private ["s14_IndexableBaseP", "makeBytes"]
+- !private ["s14_IndexableBaseP", "removingPercentEncoding"]
+- !private ["10Foundation18_MutablePairBoxingP", "urlFragmentAllowed"]
+- !private ["10Foundation18_MutablePairBoxingP", "urlHostAllowed"]
+- !private ["10Foundation18_MutablePairBoxingP", "urlPathAllowed"]
+- !private ["10Foundation18_MutablePairBoxingP", "urlQueryAllowed"]
+- !private ["10Foundation13_NSBridgeableP", "addingPercentEncoding"]
+- !private ["10Foundation13_NSBridgeableP", "makeBytes"]
+- !private ["10Foundation13_NSBridgeableP", "removingPercentEncoding"]
+- !private ["10Foundation13_NSBridgeableP", "urlFragmentAllowed"]
+- !private ["10Foundation13_NSBridgeableP", "urlHostAllowed"]
+- !private ["10Foundation13_NSBridgeableP", "urlPathAllowed"]
+- !private ["10Foundation13_NSBridgeableP", "urlQueryAllowed"]
+- !private ["10Foundation17_ObjectBridgeableP", "addingPercentEncoding"]
+- !private ["10Foundation17_ObjectBridgeableP", "makeBytes"]
+- !private ["10Foundation17_ObjectBridgeableP", "removingPercentEncoding"]
+- !private ["10Foundation17_ObjectBridgeableP", "urlFragmentAllowed"]
+- !private ["10Foundation17_ObjectBridgeableP", "urlHostAllowed"]
+- !private ["10Foundation17_ObjectBridgeableP", "urlPathAllowed"]
+- !private ["10Foundation17_ObjectBridgeableP", "urlQueryAllowed"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "addingPercentEncoding"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "makeBytes"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "removingPercentEncoding"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "urlFragmentAllowed"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "urlHostAllowed"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "urlPathAllowed"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "urlQueryAllowed"]
+- !private ["s26_RangeReplaceableIndexableP", "addingPercentEncoding"]
+- !private ["s26_RangeReplaceableIndexableP", "makeBytes"]
+- !private ["s26_RangeReplaceableIndexableP", "removingPercentEncoding"]
+- !private ["s16_SwiftStringViewP", "addingPercentEncoding"]
+- !private ["s16_SwiftStringViewP", "makeBytes"]
+- !private ["s16_SwiftStringViewP", "removingPercentEncoding"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "10Foundation12CharacterSetV"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation18_MutablePairBoxingP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "dd7cb2b59bb24a206caeebe9cf8235e4"

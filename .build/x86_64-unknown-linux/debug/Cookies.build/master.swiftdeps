@@ -1,0 +1,15 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "2799fd6b722a63dc2220627c47fb9b13"
+build_time: [1518177183, 222970136]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookie.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookie+BytesConvertible.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookie+Parse.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookie+Serialize.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookies.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookies+BytesConvertible.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookies+Literal.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookies+Parse.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Cookies+Serialize.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Request+Cookies.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/Cookies/Response+Cookies.swift": [1518177133, 0]

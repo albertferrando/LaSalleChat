@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/master.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/PathIndexable/PathIndexable.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable.swiftdeps"
+  },
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/PathIndexable/PathIndexable+Subscripting.swift": {
+    "dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable+Subscripting.d",
+    "object": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable+Subscripting.swift.o",
+    "swiftmodule": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable+Subscripting~partial.swiftmodule",
+    "swift-dependencies": "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.build/PathIndexable+Subscripting.swiftdeps"
+  }
+}

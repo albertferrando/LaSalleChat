@@ -1,0 +1,48 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Context"
+- "ObjectContext"
+- "emptyContext"
+provides-nominal:
+- "4Node7ContextP"
+- "4Node13ObjectContextC"
+provides-member:
+- ["4Node7ContextP", ""]
+- ["4Node13ObjectContextC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Context"
+- "Dictionary"
+- "Hashable"
+- "Int"
+- "ObjectContext"
+- "String"
+- "emptyContext"
+depends-member:
+- ["4Node7ContextP", "init"]
+- !private ["4Node7ContextP", "object"]
+- ["4Node7ContextP", ""]
+- ["4Node13ObjectContextC", "K"]
+- ["4Node13ObjectContextC", "V"]
+- ["4Node13ObjectContextC", "deinit"]
+- ["4Node13ObjectContextC", "init"]
+- ["4Node13ObjectContextC", "object"]
+depends-nominal:
+- "4Node7ContextP"
+- "4Node13ObjectContextC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "ee9b8f9cc9a550dd2bffcc60ea920ce6"

@@ -1,0 +1,4 @@
+module CSQLite {
+    umbrella "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include"
+    export *
+}

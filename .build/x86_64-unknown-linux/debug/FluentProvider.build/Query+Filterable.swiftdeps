@@ -1,0 +1,148 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["6Fluent18QueryRepresentableP", ""]
+- ["6Fluent6EntityP", ""]
+- ["6Fluent18QueryRepresentableP", "filter"]
+- ["6Fluent6EntityP", "filter"]
+depends-top-level:
+- "Entity"
+- "ExecutorRepresentable"
+- "Filterable"
+- "Query"
+- "QueryRepresentable"
+- "Request"
+depends-member:
+- !private ["5Vapor7ContentC", "subscript"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- ["6Fluent6EntityP", "Filterable"]
+- ["6Fluent6EntityP", "Query"]
+- ["6Fluent6EntityP", "Request"]
+- ["6Fluent6EntityP", "Self"]
+- ["6Fluent6EntityP", "filter"]
+- !private ["6Fluent6EntityP", "filterableKeys"]
+- !private ["6Fluent6EntityP", "makeQuery"]
+- ["6Fluent21ExecutorRepresentableP", "E"]
+- ["6Fluent21ExecutorRepresentableP", "Query"]
+- ["6Fluent21ExecutorRepresentableP", "Request"]
+- !private ["6Fluent21ExecutorRepresentableP", "filter"]
+- !private ["6Fluent21ExecutorRepresentableP", "makeQuery"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "comparison"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "publicKey"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "queryKey"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "valueMap"]
+- !private ["s26ExpressibleByStringLiteralP", "comparison"]
+- !private ["s26ExpressibleByStringLiteralP", "publicKey"]
+- !private ["s26ExpressibleByStringLiteralP", "queryKey"]
+- !private ["s26ExpressibleByStringLiteralP", "valueMap"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "comparison"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "publicKey"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "queryKey"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "valueMap"]
+- ["14FluentProvider10FilterableP", "Query"]
+- ["14FluentProvider10FilterableP", "Request"]
+- ["14FluentProvider10FilterableP", "Self"]
+- !private ["14FluentProvider10FilterableP", "filterableKeys"]
+- !private ["14FluentProvider10FilterableP", "makeQuery"]
+- !private ["14FluentProvider13FilterableKeyV", "comparison"]
+- !private ["14FluentProvider13FilterableKeyV", "publicKey"]
+- !private ["14FluentProvider13FilterableKeyV", "queryKey"]
+- !private ["14FluentProvider13FilterableKeyV", "valueMap"]
+- !private ["4HTTP7MessageP", "data"]
+- !private ["4Node0A13RepresentableP", "data"]
+- !private ["6Fluent5QueryC", "filter"]
+- ["6Fluent18QueryRepresentableP", "E"]
+- ["6Fluent18QueryRepresentableP", "ExecutorRepresentable"]
+- ["6Fluent18QueryRepresentableP", "Filterable"]
+- ["6Fluent18QueryRepresentableP", "Query"]
+- ["6Fluent18QueryRepresentableP", "Request"]
+- ["6Fluent18QueryRepresentableP", "filter"]
+- !private ["6Fluent18QueryRepresentableP", "makeQuery"]
+- !private ["4HTTP7RequestC", "data"]
+- ["6Fluent14RowConvertibleP", "Filterable"]
+- ["6Fluent14RowConvertibleP", "Query"]
+- ["6Fluent14RowConvertibleP", "Request"]
+- ["6Fluent14RowConvertibleP", "Self"]
+- !private ["6Fluent14RowConvertibleP", "filterableKeys"]
+- !private ["6Fluent14RowConvertibleP", "makeQuery"]
+- ["6Fluent16RowInitializableP", "Filterable"]
+- ["6Fluent16RowInitializableP", "Query"]
+- ["6Fluent16RowInitializableP", "Request"]
+- ["6Fluent16RowInitializableP", "Self"]
+- !private ["6Fluent16RowInitializableP", "filterableKeys"]
+- !private ["6Fluent16RowInitializableP", "makeQuery"]
+- ["6Fluent16RowRepresentableP", "Filterable"]
+- ["6Fluent16RowRepresentableP", "Query"]
+- ["6Fluent16RowRepresentableP", "Request"]
+- ["6Fluent16RowRepresentableP", "Self"]
+- !private ["6Fluent16RowRepresentableP", "filterableKeys"]
+- !private ["6Fluent16RowRepresentableP", "makeQuery"]
+- ["6Fluent8StorableP", "Filterable"]
+- ["6Fluent8StorableP", "Query"]
+- ["6Fluent8StorableP", "Request"]
+- ["6Fluent8StorableP", "Self"]
+- !private ["6Fluent8StorableP", "filterableKeys"]
+- !private ["6Fluent8StorableP", "makeQuery"]
+depends-nominal:
+- !private "5Vapor7ContentC"
+- !private "s23CustomStringConvertibleP"
+- "6Fluent6EntityP"
+- "6Fluent21ExecutorRepresentableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "14FluentProvider10FilterableP"
+- !private "14FluentProvider13FilterableKeyV"
+- !private "4HTTP7MessageP"
+- !private "4Node0A13RepresentableP"
+- !private "6Fluent5QueryC"
+- "6Fluent18QueryRepresentableP"
+- !private "4HTTP7RequestC"
+- "6Fluent14RowConvertibleP"
+- "6Fluent16RowInitializableP"
+- "6Fluent16RowRepresentableP"
+- "6Fluent8StorableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SMTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/FormData.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cache.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Vapor.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Branches.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cookies.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Configs.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sessions.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/WebSockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Fluent.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/BCrypt.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "7f429a4414b2d090b234609229867619"

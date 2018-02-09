@@ -1,0 +1,81 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "10Foundation4PipeC"
+provides-member:
+- ["10Foundation4PipeC", ""]
+depends-top-level:
+- "IOStream"
+- "Pipe"
+- "UInt8"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "fileHandleForReading"]
+- !private ["s28CustomDebugStringConvertibleP", "fileHandleForWriting"]
+- ["s28CustomDebugStringConvertibleP", "read"]
+- ["s28CustomDebugStringConvertibleP", "write"]
+- !private ["s23CustomStringConvertibleP", "fileHandleForReading"]
+- !private ["s23CustomStringConvertibleP", "fileHandleForWriting"]
+- ["s23CustomStringConvertibleP", "read"]
+- ["s23CustomStringConvertibleP", "write"]
+- !private ["s9EquatableP", "fileHandleForReading"]
+- !private ["s9EquatableP", "fileHandleForWriting"]
+- ["s9EquatableP", "read"]
+- ["s9EquatableP", "write"]
+- !private ["10Foundation10FileHandleC", "deinit"]
+- !private ["10Foundation10FileHandleC", "read"]
+- !private ["10Foundation10FileHandleC", "write"]
+- !private ["s8HashableP", "fileHandleForReading"]
+- !private ["s8HashableP", "fileHandleForWriting"]
+- ["s8HashableP", "read"]
+- ["s8HashableP", "write"]
+- !private ["7Console8IOStreamP", "fileHandleForReading"]
+- !private ["7Console8IOStreamP", "fileHandleForWriting"]
+- ["7Console8IOStreamP", "read"]
+- ["7Console8IOStreamP", "write"]
+- ["7Console8IOStreamP", ""]
+- !private ["10Foundation8NSCodingP", "read"]
+- !private ["10Foundation8NSCodingP", "write"]
+- ["10Foundation8NSObjectC", "UInt8"]
+- !private ["10Foundation8NSObjectC", "fileHandleForReading"]
+- !private ["10Foundation8NSObjectC", "fileHandleForWriting"]
+- ["10Foundation8NSObjectC", "read"]
+- ["10Foundation8NSObjectC", "write"]
+- !private ["10Foundation16NSObjectProtocolP", "fileHandleForReading"]
+- !private ["10Foundation16NSObjectProtocolP", "fileHandleForWriting"]
+- ["10Foundation16NSObjectProtocolP", "read"]
+- ["10Foundation16NSObjectProtocolP", "write"]
+- !private ["10Foundation14NSSecureCodingP", "read"]
+- !private ["10Foundation14NSSecureCodingP", "write"]
+- ["10Foundation4PipeC", "UInt8"]
+- ["10Foundation4PipeC", "deinit"]
+- !private ["10Foundation4PipeC", "fileHandleForReading"]
+- !private ["10Foundation4PipeC", "fileHandleForWriting"]
+- ["10Foundation4PipeC", "read"]
+- ["10Foundation4PipeC", "write"]
+depends-nominal:
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- !private "10Foundation10FileHandleC"
+- "s8HashableP"
+- "7Console8IOStreamP"
+- !private "10Foundation8NSCodingP"
+- "10Foundation8NSObjectC"
+- "10Foundation16NSObjectProtocolP"
+- !private "10Foundation14NSSecureCodingP"
+- "10Foundation4PipeC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "3a10e8265bb94ba61650725e9c8226ca"

@@ -1,0 +1,109 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AbortError"
+provides-nominal:
+- "5Vapor10AbortErrorP"
+- "4HTTP6StatusO"
+provides-member:
+- ["5Vapor10AbortErrorP", ""]
+- ["4HTTP6StatusO", ""]
+- ["5Vapor10AbortErrorP", "metadata"]
+depends-top-level:
+- "AbortError"
+- "HTTP"
+- "Node"
+- "Status"
+- "String"
+- "Swift"
+depends-member:
+- ["5Vapor10AbortErrorP", "Node"]
+- ["5Vapor10AbortErrorP", "Status"]
+- ["5Vapor10AbortErrorP", "String"]
+- ["5Vapor10AbortErrorP", "_code"]
+- ["5Vapor10AbortErrorP", "_domain"]
+- ["5Vapor10AbortErrorP", "_userInfo"]
+- ["5Vapor10AbortErrorP", "metadata"]
+- ["5Vapor10AbortErrorP", "reason"]
+- !private ["5Vapor10AbortErrorP", "reasonPhrase"]
+- ["5Vapor10AbortErrorP", "status"]
+- ["5Vapor10AbortErrorP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- ["s9EquatableP", "_userInfo"]
+- ["s9EquatableP", "metadata"]
+- ["s9EquatableP", "reason"]
+- !private ["s9EquatableP", "reasonPhrase"]
+- ["s9EquatableP", "status"]
+- ["s5ErrorP", "Node"]
+- ["s5ErrorP", "Status"]
+- ["s5ErrorP", "String"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "metadata"]
+- ["s5ErrorP", "reason"]
+- !private ["s5ErrorP", "reasonPhrase"]
+- ["s5ErrorP", "status"]
+- ["s5ErrorP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- ["s8HashableP", "_userInfo"]
+- ["s8HashableP", "metadata"]
+- ["s8HashableP", "reason"]
+- !private ["s8HashableP", "reasonPhrase"]
+- ["s8HashableP", "status"]
+- ["4HTTP6StatusO", "Status"]
+- ["4HTTP6StatusO", "String"]
+- ["4HTTP6StatusO", "_code"]
+- ["4HTTP6StatusO", "_domain"]
+- ["4HTTP6StatusO", "_userInfo"]
+- ["4HTTP6StatusO", "deinit"]
+- ["4HTTP6StatusO", "metadata"]
+- ["4HTTP6StatusO", "reason"]
+- !private ["4HTTP6StatusO", "reasonPhrase"]
+- ["4HTTP6StatusO", "status"]
+depends-nominal:
+- "5Vapor10AbortErrorP"
+- "s9EquatableP"
+- "s5ErrorP"
+- "s8HashableP"
+- "4HTTP6StatusO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SMTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/FormData.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cache.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Branches.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cookies.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Configs.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sessions.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/WebSockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/BCrypt.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "f36ff9d6e6136c15d6b190fe92a00bd4"

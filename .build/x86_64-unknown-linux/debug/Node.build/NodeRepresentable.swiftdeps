@@ -1,0 +1,41 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NodeRepresentable"
+provides-nominal:
+- "4Node0A13RepresentableP"
+provides-member:
+- ["4Node0A13RepresentableP", ""]
+- ["4Node0A13RepresentableP", "converted"]
+depends-top-level:
+- "Context"
+- "Node"
+- "NodeInitializable"
+- "NodeRepresentable"
+depends-member:
+- !private ["4NodeAAV", "deinit"]
+- !private ["4Node0A13InitializableP", "init"]
+- ["4Node0A13RepresentableP", "Context"]
+- ["4Node0A13RepresentableP", "Node"]
+- ["4Node0A13RepresentableP", "NodeInitializable"]
+- ["4Node0A13RepresentableP", "converted"]
+- ["4Node0A13RepresentableP", "makeNode"]
+depends-nominal:
+- !private "4NodeAAV"
+- !private "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "e619b3f98e8029ecb3074beeeb59dd83"

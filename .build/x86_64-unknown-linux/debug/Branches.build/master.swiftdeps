@@ -1,0 +1,7 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "53470bfc6603368aa746395d8d7a44ad"
+build_time: [1518177166, 647478113]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/routing.git-1485801344613057502/Sources/Branches/Branch.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/routing.git-1485801344613057502/Sources/Branches/Branch+Paths.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/routing.git-1485801344613057502/Sources/Branches/SubBranchMap.swift": [1518177134, 0]

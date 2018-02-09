@@ -1,0 +1,5 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "80f6b43c867b5f044c7cf581444ccac0"
+build_time: [1518177148, 385731734]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/core.git-4369016638413795800/Sources/libc/libc.swift": [1518177130, 0]

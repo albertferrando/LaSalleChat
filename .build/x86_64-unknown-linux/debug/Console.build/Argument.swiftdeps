@@ -1,0 +1,46 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Argument"
+provides-nominal:
+- "7Console8ArgumentP"
+provides-member:
+- ["7Console8ArgumentP", ""]
+- ["s8SequenceP", ""]
+- ["s8SequenceP", "values"]
+- ["s8SequenceP", "options"]
+depends-top-level:
+- "Argument"
+- !private "CastingPrecedence"
+- "Option"
+- "Sequence"
+- "String"
+- "Value"
+depends-member:
+- ["7Console8ArgumentP", "String"]
+- ["7Console8ArgumentP", "help"]
+- ["7Console8ArgumentP", "name"]
+- ["s8SequenceP", "Argument"]
+- ["s8SequenceP", "Iterator"]
+- ["s8SequenceP", "Option"]
+- ["s8SequenceP", "Value"]
+- !private ["s8SequenceP", "flatMap"]
+- ["s8SequenceP", "options"]
+- ["s8SequenceP", "values"]
+depends-nominal:
+- "7Console8ArgumentP"
+- "s8SequenceP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "073cc706f1c9286e9cbd7bae6fcd2a31"

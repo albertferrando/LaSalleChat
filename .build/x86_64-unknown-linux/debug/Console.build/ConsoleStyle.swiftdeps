@@ -1,0 +1,35 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConsoleStyle"
+provides-nominal:
+- "7Console0A5StyleO"
+provides-member:
+- ["7Console0A5StyleO", ""]
+depends-top-level:
+- "ConsoleColor"
+- "ConsoleStyle"
+depends-member:
+- ["7Console0A5StyleO", "ConsoleColor"]
+- ["7Console0A5StyleO", "custom"]
+- ["7Console0A5StyleO", "error"]
+- ["7Console0A5StyleO", "info"]
+- ["7Console0A5StyleO", "plain"]
+- ["7Console0A5StyleO", "success"]
+- ["7Console0A5StyleO", "warning"]
+depends-nominal:
+- "7Console0A5StyleO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "cf2a33a031cad5c257ba06ca8188a065"

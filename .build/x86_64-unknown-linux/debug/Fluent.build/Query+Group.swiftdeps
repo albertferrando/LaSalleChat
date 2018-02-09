@@ -1,0 +1,95 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "QueryClosure"
+provides-nominal:
+provides-member:
+- ["6Fluent18QueryRepresentableP", ""]
+- ["6Fluent18QueryRepresentableP", "group"]
+- ["6Fluent18QueryRepresentableP", "and"]
+- ["6Fluent18QueryRepresentableP", "or"]
+depends-top-level:
+- "Entity"
+- "ExecutorRepresentable"
+- "Filter"
+- "Query"
+- "QueryClosure"
+- "QueryRepresentable"
+depends-member:
+- ["s23CustomStringConvertibleP", "Relation"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9EquatableP", "and"]
+- !private ["s9EquatableP", "or"]
+- ["6Fluent21ExecutorRepresentableP", "E"]
+- ["6Fluent21ExecutorRepresentableP", "Filter"]
+- ["6Fluent21ExecutorRepresentableP", "Query"]
+- ["6Fluent21ExecutorRepresentableP", "QueryClosure"]
+- !private ["6Fluent21ExecutorRepresentableP", "executor"]
+- !private ["6Fluent21ExecutorRepresentableP", "filter"]
+- !private ["6Fluent21ExecutorRepresentableP", "filters"]
+- !private ["6Fluent21ExecutorRepresentableP", "group"]
+- !private ["6Fluent21ExecutorRepresentableP", "init"]
+- !private ["6Fluent21ExecutorRepresentableP", "makeQuery"]
+- ["6Fluent6FilterV", "Relation"]
+- !private ["6Fluent6FilterV", "deinit"]
+- !private ["6Fluent6FilterV", "init"]
+- !private ["s8HashableP", "and"]
+- !private ["s8HashableP", "or"]
+- !private ["6Fluent6FilterV6MethodO", "group"]
+- ["4Node0A13InitializableP", "Relation"]
+- !private ["4Node0A13InitializableP", "group"]
+- !private ["4Node0A13InitializableP", "init"]
+- ["4Node0A13RepresentableP", "Relation"]
+- !private ["4Node0A13RepresentableP", "group"]
+- !private ["4Node0A13RepresentableP", "init"]
+- !private ["6Fluent5QueryC", "deinit"]
+- !private ["6Fluent5QueryC", "executor"]
+- !private ["6Fluent5QueryC", "filter"]
+- !private ["6Fluent5QueryC", "filters"]
+- !private ["6Fluent5QueryC", "init"]
+- ["6Fluent18QueryRepresentableP", "E"]
+- ["6Fluent18QueryRepresentableP", "ExecutorRepresentable"]
+- ["6Fluent18QueryRepresentableP", "Filter"]
+- ["6Fluent18QueryRepresentableP", "Query"]
+- ["6Fluent18QueryRepresentableP", "QueryClosure"]
+- ["6Fluent18QueryRepresentableP", "and"]
+- !private ["6Fluent18QueryRepresentableP", "executor"]
+- !private ["6Fluent18QueryRepresentableP", "filter"]
+- !private ["6Fluent18QueryRepresentableP", "filters"]
+- ["6Fluent18QueryRepresentableP", "group"]
+- !private ["6Fluent18QueryRepresentableP", "init"]
+- !private ["6Fluent18QueryRepresentableP", "makeQuery"]
+- ["6Fluent18QueryRepresentableP", "or"]
+- !private ["6Fluent6FilterV8RelationO", "and"]
+- !private ["6Fluent6FilterV8RelationO", "or"]
+depends-nominal:
+- "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- "6Fluent21ExecutorRepresentableP"
+- "6Fluent6FilterV"
+- !private "s8HashableP"
+- !private "6Fluent6FilterV6MethodO"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- !private "6Fluent5QueryC"
+- "6Fluent18QueryRepresentableP"
+- !private "6Fluent6FilterV8RelationO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "71305138925e2bb27421fe1ee06c0c87"

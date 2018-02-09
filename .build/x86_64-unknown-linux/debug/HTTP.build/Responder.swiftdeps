@@ -1,0 +1,59 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Responder"
+- "BasicResponder"
+provides-nominal:
+- "4HTTP9ResponderP"
+- "4HTTP14BasicResponderV"
+provides-member:
+- ["4HTTP9ResponderP", ""]
+- ["4HTTP14BasicResponderV", ""]
+- ["4HTTP7RequestC", ""]
+- ["4HTTP7RequestC", "Handler"]
+depends-top-level:
+- "AssignmentPrecedence"
+- "BasicResponder"
+- "Request"
+- "Responder"
+- "Response"
+depends-member:
+- ["4HTTP14BasicResponderV", "Closure"]
+- ["4HTTP14BasicResponderV", "Request"]
+- ["4HTTP14BasicResponderV", "Response"]
+- ["4HTTP14BasicResponderV", "closure"]
+- ["4HTTP14BasicResponderV", "deinit"]
+- ["4HTTP14BasicResponderV", "init"]
+- ["4HTTP14BasicResponderV", "respond"]
+- ["4HTTP7RequestC", "BasicResponder"]
+- ["4HTTP7RequestC", "Handler"]
+- ["4HTTP9ResponderP", "Request"]
+- ["4HTTP9ResponderP", "Response"]
+- !private ["4HTTP9ResponderP", "closure"]
+- ["4HTTP9ResponderP", "respond"]
+- ["4HTTP9ResponderP", ""]
+depends-nominal:
+- "4HTTP14BasicResponderV"
+- "4HTTP7RequestC"
+- "4HTTP9ResponderP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "4ecf1d3f768ea274846e31cd5b7eb01a"

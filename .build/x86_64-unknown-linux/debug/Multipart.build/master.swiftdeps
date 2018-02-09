@@ -1,0 +1,10 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "ed4668c814963708143e0c03ff54fcd1"
+build_time: [1518177183, 249242703]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/BoundaryParser.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/HeaderParser.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/Multipart+BytesConvertible.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/Parser.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/Part.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/Multipart/Serializer.swift": [1518177131, 0]

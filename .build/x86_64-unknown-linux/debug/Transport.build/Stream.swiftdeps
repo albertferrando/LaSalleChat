@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Stream"
+- "DuplexStream"
+provides-nominal:
+- "9Transport6StreamP"
+provides-member:
+- ["9Transport6StreamP", ""]
+depends-top-level:
+- "AnyObject"
+- "Bool"
+- "Double"
+- "DuplexStream"
+- "ReadableStream"
+- "Stream"
+- "WriteableStream"
+depends-member:
+- ["9Transport6StreamP", "Bool"]
+- ["9Transport6StreamP", "Double"]
+- ["9Transport6StreamP", "close"]
+- ["9Transport6StreamP", "isClosed"]
+- ["9Transport6StreamP", "setTimeout"]
+depends-nominal:
+- "9Transport6StreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "6dea261f836e3a303f65ec2b3bde43ed"

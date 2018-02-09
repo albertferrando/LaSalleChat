@@ -1,0 +1,11 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "a3f073941e9fb949dd9f58fdf7e661ce"
+build_time: [1518177205, 919791830]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Controllers/DataManager.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Controllers/PostController.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Models/Message.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Models/Post.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Routes/Routes.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Setup/Config+Setup.swift": [1518019683, 0]
+  "/home/albertfega/Desktop/LaSalleChat/Sources/App/Setup/Droplet+Setup.swift": [1518019683, 0]

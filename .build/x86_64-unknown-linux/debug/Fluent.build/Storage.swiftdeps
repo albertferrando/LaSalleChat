@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Storage"
+- "Storable"
+provides-nominal:
+- "6Fluent7StorageC"
+- "6Fluent8StorableP"
+provides-member:
+- ["6Fluent7StorageC", ""]
+- ["6Fluent8StorableP", ""]
+- ["6Fluent8StorableP", "exists"]
+- ["6Fluent8StorableP", "id"]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Date"
+- "Identifier"
+- "Row"
+- "Storable"
+- "Storage"
+depends-member:
+- ["6Fluent8StorableP", "Bool"]
+- ["6Fluent8StorableP", "Identifier"]
+- ["6Fluent8StorableP", "Storage"]
+- ["6Fluent8StorableP", "exists"]
+- ["6Fluent8StorableP", "id"]
+- ["6Fluent8StorableP", "storage"]
+- ["6Fluent7StorageC", "Bool"]
+- ["6Fluent7StorageC", "Date"]
+- ["6Fluent7StorageC", "Identifier"]
+- ["6Fluent7StorageC", "Row"]
+- ["6Fluent7StorageC", "createdAt"]
+- ["6Fluent7StorageC", "deinit"]
+- ["6Fluent7StorageC", "deletedAt"]
+- !private ["6Fluent7StorageC", "exists"]
+- ["6Fluent7StorageC", "fetchedRow"]
+- !private ["6Fluent7StorageC", "id"]
+- ["6Fluent7StorageC", "init"]
+- ["6Fluent7StorageC", "shouldForceDelete"]
+- ["6Fluent7StorageC", "updatedAt"]
+depends-nominal:
+- "6Fluent8StorableP"
+- "6Fluent7StorageC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "be1783079b33bb76b6b86d8adb20c374"

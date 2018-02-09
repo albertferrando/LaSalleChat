@@ -1,0 +1,69 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SMTPClientError"
+provides-nominal:
+- "4SMTP15SMTPClientErrorO"
+provides-member:
+- ["4SMTP15SMTPClientErrorO", ""]
+- ["4SMTP15SMTPClientErrorO", "code"]
+- ["4SMTP15SMTPClientErrorO", "replies"]
+depends-top-level:
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "SMTPClientError"
+- "String"
+- "Swift"
+depends-member:
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "authorizationFailed"]
+- ["s5ErrorP", "initiationFailed"]
+- ["s5ErrorP", "invalidGreeting"]
+- ["s5ErrorP", "invalidMultilineReply"]
+- ["s5ErrorP", "invalidPassword"]
+- ["s5ErrorP", "invalidUsername"]
+- ["s5ErrorP", "missingGreeting"]
+- ["s5ErrorP", "quitFailed"]
+- ["s5ErrorP", "unexpectedReply"]
+- ["s5ErrorP", "unsupportedAuth"]
+- ["s5ErrorP", ""]
+- ["4SMTP15SMTPClientErrorO", "Int"]
+- ["4SMTP15SMTPClientErrorO", "String"]
+- ["4SMTP15SMTPClientErrorO", "_code"]
+- ["4SMTP15SMTPClientErrorO", "_domain"]
+- ["4SMTP15SMTPClientErrorO", "_userInfo"]
+- ["4SMTP15SMTPClientErrorO", "authorizationFailed"]
+- ["4SMTP15SMTPClientErrorO", "code"]
+- ["4SMTP15SMTPClientErrorO", "deinit"]
+- ["4SMTP15SMTPClientErrorO", "initiationFailed"]
+- ["4SMTP15SMTPClientErrorO", "invalidGreeting"]
+- ["4SMTP15SMTPClientErrorO", "invalidMultilineReply"]
+- ["4SMTP15SMTPClientErrorO", "invalidPassword"]
+- ["4SMTP15SMTPClientErrorO", "invalidUsername"]
+- ["4SMTP15SMTPClientErrorO", "missingGreeting"]
+- ["4SMTP15SMTPClientErrorO", "quitFailed"]
+- ["4SMTP15SMTPClientErrorO", "replies"]
+- ["4SMTP15SMTPClientErrorO", "unexpectedReply"]
+- ["4SMTP15SMTPClientErrorO", "unsupportedAuth"]
+depends-nominal:
+- "s5ErrorP"
+- "4SMTP15SMTPClientErrorO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "bc6722e510398d5120ca1e67929504ef"

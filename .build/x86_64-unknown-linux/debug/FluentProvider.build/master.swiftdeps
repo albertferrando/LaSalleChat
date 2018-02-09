@@ -1,0 +1,23 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "358f781802bfb77a9ecf51db4140b98f"
+build_time: [1518177203, 331956005]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Cache.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Droplet/Config+Driver.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Droplet/Config+Preparation.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Droplet/Droplet+Prepare.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Droplet/Droplet+Storage.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Exports.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Filterable/Filterable.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Filterable/FilterableKey.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Filterable/FilterableKey+String.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Filterable/Query+Filterable.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Model.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Node+Row+JSON.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Pagination.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Prepare.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Provider.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/SQLite+Config.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Updateable/Request+Updateable.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Updateable/Updateable.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/fluent-provider.git-5809136533028172722/Sources/FluentProvider/Updateable/UpdateableKey.swift": [1518177134, 0]

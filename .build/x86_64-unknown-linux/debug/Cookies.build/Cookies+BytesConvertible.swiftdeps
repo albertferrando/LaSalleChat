@@ -1,0 +1,144 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "7CookiesAAV"
+provides-member:
+- ["7CookiesAAV", ""]
+depends-top-level:
+- "Bytes"
+- "BytesConvertible"
+- "Cookies"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "makeBytes"]
+- !private ["4HTTP17BodyRepresentableP", "makeBytes"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits16BytesConvertibleP", "makeBytes"]
+- !private ["4Bits16BytesConvertibleP", "serialize"]
+- ["4Bits16BytesConvertibleP", ""]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesInitializableP", "makeBytes"]
+- !private ["4Bits18BytesInitializableP", "serialize"]
+- ["4Bits18BytesInitializableP", ""]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["4Bits18BytesRepresentableP", "makeBytes"]
+- !private ["4Bits18BytesRepresentableP", "serialize"]
+- ["4Bits18BytesRepresentableP", ""]
+- !private ["s10CollectionP", "makeBytes"]
+- !private ["s10ComparableP", "makeBytes"]
+- ["7CookiesAAV", "Bytes"]
+- ["7CookiesAAV", "deinit"]
+- ["7CookiesAAV", "init"]
+- ["7CookiesAAV", "makeBytes"]
+- !private ["7CookiesAAV", "serialize"]
+- !private ["s28CustomDebugStringConvertibleP", "makeBytes"]
+- !private ["s29CustomPlaygroundQuickLookableP", "makeBytes"]
+- !private ["s17CustomReflectableP", "makeBytes"]
+- !private ["s23CustomStringConvertibleP", "makeBytes"]
+- !private ["s9DecodableP", "makeBytes"]
+- !private ["s9EncodableP", "makeBytes"]
+- !private ["s9EquatableP", "makeBytes"]
+- !private ["s9EquatableP", "request"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s25ExpressibleByArrayLiteralP", "makeBytes"]
+- !private ["s25ExpressibleByArrayLiteralP", "serialize"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s8HashableP", "makeBytes"]
+- !private ["s8HashableP", "request"]
+- !private ["s25LosslessStringConvertibleP", "makeBytes"]
+- !private ["s10MirrorPathP", "makeBytes"]
+- !private ["7CookiesAAV11ParseMethodO", "request"]
+- !private ["s26RangeReplaceableCollectionP", "makeBytes"]
+- !private ["4HTTP21ResponseRepresentableP", "makeBytes"]
+- ["s8SequenceP", "init"]
+- ["s8SequenceP", "makeBytes"]
+- !private ["s8SequenceP", "serialize"]
+- !private ["7CookiesAAV19SerializationMethodO", "request"]
+- !private ["SS", "makeBytes"]
+- !private ["s14StringProtocolP", "makeBytes"]
+- !private ["s16TextOutputStreamP", "makeBytes"]
+- !private ["s20TextOutputStreamableP", "makeBytes"]
+- !private ["s23_BidirectionalIndexableP", "makeBytes"]
+- !private ["10Foundation13_CFBridgeableP", "makeBytes"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "makeBytes"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeBytes"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33_ExpressibleByStringInterpolationP", "makeBytes"]
+- !private ["s10_IndexableP", "makeBytes"]
+- !private ["s14_IndexableBaseP", "makeBytes"]
+- !private ["10Foundation13_NSBridgeableP", "makeBytes"]
+- !private ["10Foundation17_ObjectBridgeableP", "makeBytes"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "makeBytes"]
+- !private ["s26_RangeReplaceableIndexableP", "makeBytes"]
+- !private ["s16_SwiftStringViewP", "makeBytes"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "4HTTP17BodyRepresentableP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "7CookiesAAV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "7CookiesAAV11ParseMethodO"
+- !private "s26RangeReplaceableCollectionP"
+- !private "4HTTP21ResponseRepresentableP"
+- "s8SequenceP"
+- !private "7CookiesAAV19SerializationMethodO"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "a6123b6d8ecab4350b803393811f8daa"

@@ -1,0 +1,48 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FileProtocol"
+provides-nominal:
+- "4Core12FileProtocolP"
+provides-member:
+- ["4Core12FileProtocolP", ""]
+- ["4Core12FileProtocolP", "read"]
+- ["4Core12FileProtocolP", "write"]
+- ["4Core12FileProtocolP", "delete"]
+depends-top-level:
+- "Bytes"
+- "EmptyInitializable"
+- "FileProtocol"
+- "String"
+depends-member:
+- ["4Core18EmptyInitializableP", "Bytes"]
+- !private ["4Core18EmptyInitializableP", "Self"]
+- ["4Core18EmptyInitializableP", "String"]
+- !private ["4Core18EmptyInitializableP", "delete"]
+- !private ["4Core18EmptyInitializableP", "init"]
+- !private ["4Core18EmptyInitializableP", "read"]
+- !private ["4Core18EmptyInitializableP", "write"]
+- ["4Core12FileProtocolP", "Bytes"]
+- ["4Core12FileProtocolP", "EmptyInitializable"]
+- !private ["4Core12FileProtocolP", "Self"]
+- ["4Core12FileProtocolP", "String"]
+- ["4Core12FileProtocolP", "delete"]
+- !private ["4Core12FileProtocolP", "init"]
+- ["4Core12FileProtocolP", "read"]
+- ["4Core12FileProtocolP", "write"]
+depends-nominal:
+- "4Core18EmptyInitializableP"
+- "4Core12FileProtocolP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "b688bf05d5b4471427f3a3bb2d293b48"

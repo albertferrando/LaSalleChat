@@ -1,0 +1,10 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "468a6fe19f80195b25d99538c0ea363f"
+build_time: [1518177203, 331312058]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/Bytes.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/Exports.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/Request.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/Responder.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/Response.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Testing/TestingError.swift": [1518177132, 0]

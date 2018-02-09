@@ -1,0 +1,102 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4NodeAAV", ""]
+- ["4NodeAAV", "merged"]
+depends-top-level:
+- "Node"
+depends-member:
+- !private ["s10CollectionP", "merge"]
+- !private ["s28CustomDebugStringConvertibleP", "merge"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- !private ["s17CustomReflectableP", "merge"]
+- !private ["s17CustomReflectableP", "object"]
+- !private ["s23CustomStringConvertibleP", "merge"]
+- !private ["s9DecodableP", "merge"]
+- !private ["s9DecodableP", "object"]
+- !private ["s10DictionaryV", "deinit"]
+- !private ["s10DictionaryV", "merge"]
+- !private ["s9EncodableP", "merge"]
+- !private ["s9EncodableP", "object"]
+- !private ["s9EquatableP", "object"]
+- !private ["s25ExpressibleByArrayLiteralP", "object"]
+- !private ["s27ExpressibleByBooleanLiteralP", "object"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "merge"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "object"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "object"]
+- !private ["s25ExpressibleByFloatLiteralP", "object"]
+- !private ["s27ExpressibleByIntegerLiteralP", "object"]
+- !private ["s23ExpressibleByNilLiteralP", "object"]
+- !private ["s26ExpressibleByStringLiteralP", "object"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "object"]
+- !private ["4Node14FuzzyConverterP", "object"]
+- !private ["7Configs13KeyAccessibleP", "merge"]
+- ["4NodeAAV", "Node"]
+- ["4NodeAAV", "merged"]
+- !private ["4NodeAAV", "object"]
+- !private ["4Node0A13InitializableP", "merge"]
+- !private ["4Node0A13InitializableP", "object"]
+- !private ["4Node0A13RepresentableP", "merge"]
+- !private ["4Node0A13RepresentableP", "object"]
+- !private ["Sq", "object"]
+- !private ["13PathIndexableAAP", "object"]
+- !private ["s8SequenceP", "merge"]
+- !private ["4Node21StructuredDataWrapperP", "object"]
+- !private ["10Foundation13_CFBridgeableP", "merge"]
+- !private ["s10_IndexableP", "merge"]
+- !private ["s14_IndexableBaseP", "merge"]
+- !private ["10Foundation13_NSBridgeableP", "merge"]
+- !private ["10Foundation17_ObjectBridgeableP", "merge"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "merge"]
+depends-nominal:
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "4Node14FuzzyConverterP"
+- !private "7Configs13KeyAccessibleP"
+- "4NodeAAV"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "Sq"
+- !private "13PathIndexableAAP"
+- !private "s8SequenceP"
+- !private "4Node21StructuredDataWrapperP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "63f51f4026e03afd574c5ef8e584a300"

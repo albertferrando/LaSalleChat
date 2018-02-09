@@ -1,0 +1,106 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "KeyAccessible"
+provides-nominal:
+- "7Configs13KeyAccessibleP"
+- "s10DictionaryV"
+provides-member:
+- ["7Configs13KeyAccessibleP", ""]
+- ["s10DictionaryV", ""]
+depends-top-level:
+- "Dictionary"
+- "KeyAccessible"
+depends-member:
+- ["s10CollectionP", "Key"]
+- ["s10CollectionP", "Value"]
+- ["s10CollectionP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "Key"]
+- ["s28CustomDebugStringConvertibleP", "Value"]
+- ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s17CustomReflectableP", "Key"]
+- ["s17CustomReflectableP", "Value"]
+- ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "Key"]
+- ["s23CustomStringConvertibleP", "Value"]
+- ["s23CustomStringConvertibleP", "subscript"]
+- ["s9DecodableP", "Key"]
+- ["s9DecodableP", "Value"]
+- ["s9DecodableP", "subscript"]
+- ["s10DictionaryV", "Key"]
+- ["s10DictionaryV", "Value"]
+- ["s10DictionaryV", "deinit"]
+- ["s10DictionaryV", "subscript"]
+- ["s9EncodableP", "Key"]
+- ["s9EncodableP", "Value"]
+- ["s9EncodableP", "subscript"]
+- ["s30ExpressibleByDictionaryLiteralP", "Key"]
+- ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["7Configs13KeyAccessibleP", "Key"]
+- ["7Configs13KeyAccessibleP", "Value"]
+- ["7Configs13KeyAccessibleP", "subscript"]
+- ["7Configs13KeyAccessibleP", ""]
+- ["4Node0A13InitializableP", "Key"]
+- ["4Node0A13InitializableP", "Value"]
+- ["4Node0A13InitializableP", "subscript"]
+- ["4Node0A13RepresentableP", "Key"]
+- ["4Node0A13RepresentableP", "Value"]
+- ["4Node0A13RepresentableP", "subscript"]
+- ["s8SequenceP", "Key"]
+- ["s8SequenceP", "Value"]
+- ["s8SequenceP", "subscript"]
+- ["10Foundation13_CFBridgeableP", "Key"]
+- ["10Foundation13_CFBridgeableP", "Value"]
+- ["10Foundation13_CFBridgeableP", "subscript"]
+- ["s10_IndexableP", "Key"]
+- ["s10_IndexableP", "Value"]
+- ["s10_IndexableP", "subscript"]
+- ["s14_IndexableBaseP", "Key"]
+- ["s14_IndexableBaseP", "Value"]
+- ["s14_IndexableBaseP", "subscript"]
+- ["10Foundation13_NSBridgeableP", "Key"]
+- ["10Foundation13_NSBridgeableP", "Value"]
+- ["10Foundation13_NSBridgeableP", "subscript"]
+- ["10Foundation17_ObjectBridgeableP", "Key"]
+- ["10Foundation17_ObjectBridgeableP", "Value"]
+- ["10Foundation17_ObjectBridgeableP", "subscript"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Key"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Value"]
+- ["10Foundation21_ObjectTypeBridgeableP", "subscript"]
+depends-nominal:
+- "s10CollectionP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s10DictionaryV"
+- "s9EncodableP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "7Configs13KeyAccessibleP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "s8SequenceP"
+- "10Foundation13_CFBridgeableP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "442d59d90563f61e577709f070af8eab"

@@ -1,0 +1,210 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TOKEN"
+- "SUFFIX"
+- "defaultTags"
+provides-nominal:
+provides-member:
+depends-top-level:
+- "Byte"
+- "Else"
+- "Embed"
+- "Equal"
+- "Export"
+- "Extend"
+- "If"
+- "Import"
+- "Index"
+- "Loop"
+- "Raw"
+- "SUFFIX"
+- "String"
+- "StringLiteralType"
+- "TOKEN"
+- "Tag"
+- "Uppercased"
+- "Variable"
+- "defaultTags"
+depends-member:
+- ["4Leaf8BasicTagP", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["s13BinaryIntegerP", "numberSign"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits16BytesConvertibleP", "numberSign"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesInitializableP", "numberSign"]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["4Bits18BytesRepresentableP", "numberSign"]
+- ["s7CVarArgP", "numberSign"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s10ComparableP", "numberSign"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "numberSign"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "numberSign"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "numberSign"]
+- ["s9DecodableP", "init"]
+- ["s9DecodableP", "numberSign"]
+- ["4Leaf4ElseC", "deinit"]
+- ["4Leaf4ElseC", "init"]
+- ["4Leaf5EmbedC", "deinit"]
+- ["4Leaf5EmbedC", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EncodableP", "numberSign"]
+- ["4Leaf5EqualC", "deinit"]
+- ["4Leaf5EqualC", "init"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "numberSign"]
+- ["4Leaf6ExportC", "deinit"]
+- ["4Leaf6ExportC", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "numberSign"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["4Leaf6ExtendC", "deinit"]
+- ["4Leaf6ExtendC", "init"]
+- ["s17FixedWidthIntegerP", "numberSign"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "numberSign"]
+- ["4Leaf2IfC", "deinit"]
+- ["4Leaf2IfC", "init"]
+- ["4Leaf6ImportC", "deinit"]
+- ["4Leaf6ImportC", "init"]
+- ["4Leaf5IndexC", "deinit"]
+- ["4Leaf5IndexC", "init"]
+- ["4Leaf4LoopC", "deinit"]
+- ["4Leaf4LoopC", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "numberSign"]
+- ["s10MirrorPathP", "init"]
+- ["4Node0A13InitializableP", "init"]
+- ["4Node0A13InitializableP", "numberSign"]
+- ["4Node0A13RepresentableP", "init"]
+- ["4Node0A13RepresentableP", "numberSign"]
+- ["s7NumericP", "numberSign"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["4Leaf3RawC", "deinit"]
+- ["4Leaf3RawC", "init"]
+- ["s8SequenceP", "init"]
+- ["s10StrideableP", "numberSign"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["4Leaf3TagP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s5UInt8V", "numberSign"]
+- ["s15UnsignedIntegerP", "numberSign"]
+- ["4Leaf10UppercasedC", "deinit"]
+- ["4Leaf10UppercasedC", "init"]
+- ["4Leaf8VariableC", "deinit"]
+- ["4Leaf8VariableC", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s18_BitwiseOperationsP", "numberSign"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "numberSign"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- ["10Foundation17_ObjectBridgeableP", "numberSign"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- ["10Foundation21_ObjectTypeBridgeableP", "numberSign"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s11_StrideableP", "numberSign"]
+- ["s14_StringElementP", "numberSign"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "4Leaf8BasicTagP"
+- "s23BidirectionalCollectionP"
+- "s13BinaryIntegerP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "4Leaf4ElseC"
+- "4Leaf5EmbedC"
+- "s9EncodableP"
+- "4Leaf5EqualC"
+- "s9EquatableP"
+- "4Leaf6ExportC"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "4Leaf6ExtendC"
+- "s17FixedWidthIntegerP"
+- "s8HashableP"
+- "4Leaf2IfC"
+- "4Leaf6ImportC"
+- "4Leaf5IndexC"
+- "4Leaf4LoopC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "s7NumericP"
+- "13PathIndexable0A7IndexerP"
+- "s26RangeReplaceableCollectionP"
+- "4Leaf3RawC"
+- "s8SequenceP"
+- "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "4Leaf3TagP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s5UInt8V"
+- "s15UnsignedIntegerP"
+- "4Leaf10UppercasedC"
+- "4Leaf8VariableC"
+- "s23_BidirectionalIndexableP"
+- "s18_BitwiseOperationsP"
+- "10Foundation13_CFBridgeableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s11_StrideableP"
+- "s14_StringElementP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "1289cfd58b25926d46a73b9d095793ed"

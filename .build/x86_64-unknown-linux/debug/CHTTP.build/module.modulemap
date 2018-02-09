@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include"
+    export *
+}

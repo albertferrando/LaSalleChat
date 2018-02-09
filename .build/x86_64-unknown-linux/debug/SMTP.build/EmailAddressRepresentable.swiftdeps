@@ -1,0 +1,169 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmailAddressRepresentable"
+provides-nominal:
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP12EmailAddressV"
+- "SS"
+provides-member:
+- ["4SMTP25EmailAddressRepresentableP", ""]
+- ["4SMTP12EmailAddressV", ""]
+- ["SS", ""]
+depends-top-level:
+- "EmailAddress"
+- "EmailAddressRepresentable"
+- "String"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "EmailAddress"]
+- ["s23BidirectionalCollectionP", "emailAddress"]
+- !private ["4Bits16BytesConvertibleP", "EmailAddress"]
+- ["4Bits16BytesConvertibleP", "emailAddress"]
+- !private ["4Bits18BytesInitializableP", "EmailAddress"]
+- ["4Bits18BytesInitializableP", "emailAddress"]
+- !private ["4Bits18BytesRepresentableP", "EmailAddress"]
+- ["4Bits18BytesRepresentableP", "emailAddress"]
+- !private ["s10CollectionP", "EmailAddress"]
+- ["s10CollectionP", "emailAddress"]
+- !private ["s10ComparableP", "EmailAddress"]
+- ["s10ComparableP", "emailAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "EmailAddress"]
+- ["s28CustomDebugStringConvertibleP", "emailAddress"]
+- !private ["s29CustomPlaygroundQuickLookableP", "EmailAddress"]
+- ["s29CustomPlaygroundQuickLookableP", "emailAddress"]
+- !private ["s17CustomReflectableP", "EmailAddress"]
+- ["s17CustomReflectableP", "emailAddress"]
+- !private ["s23CustomStringConvertibleP", "EmailAddress"]
+- ["s23CustomStringConvertibleP", "emailAddress"]
+- !private ["s9DecodableP", "EmailAddress"]
+- ["s9DecodableP", "emailAddress"]
+- ["4SMTP12EmailAddressV", "EmailAddress"]
+- ["4SMTP12EmailAddressV", "deinit"]
+- ["4SMTP12EmailAddressV", "emailAddress"]
+- !private ["4SMTP12EmailAddressV", "init"]
+- ["4SMTP25EmailAddressRepresentableP", "EmailAddress"]
+- ["4SMTP25EmailAddressRepresentableP", "emailAddress"]
+- !private ["4SMTP25EmailAddressRepresentableP", "init"]
+- ["4SMTP25EmailAddressRepresentableP", ""]
+- !private ["4SMTP22EmailBodyRepresentableP", "EmailAddress"]
+- ["4SMTP22EmailBodyRepresentableP", "emailAddress"]
+- !private ["s9EncodableP", "EmailAddress"]
+- ["s9EncodableP", "emailAddress"]
+- !private ["s9EquatableP", "EmailAddress"]
+- ["s9EquatableP", "emailAddress"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "EmailAddress"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "emailAddress"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "EmailAddress"]
+- ["s26ExpressibleByStringLiteralP", "emailAddress"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "EmailAddress"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "emailAddress"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "EmailAddress"]
+- ["s8HashableP", "emailAddress"]
+- !private ["s25LosslessStringConvertibleP", "EmailAddress"]
+- ["s25LosslessStringConvertibleP", "emailAddress"]
+- !private ["s10MirrorPathP", "EmailAddress"]
+- ["s10MirrorPathP", "emailAddress"]
+- !private ["s26RangeReplaceableCollectionP", "EmailAddress"]
+- ["s26RangeReplaceableCollectionP", "emailAddress"]
+- !private ["s8SequenceP", "EmailAddress"]
+- ["s8SequenceP", "emailAddress"]
+- ["SS", "EmailAddress"]
+- ["SS", "deinit"]
+- ["SS", "emailAddress"]
+- !private ["s14StringProtocolP", "EmailAddress"]
+- ["s14StringProtocolP", "emailAddress"]
+- !private ["s16TextOutputStreamP", "EmailAddress"]
+- ["s16TextOutputStreamP", "emailAddress"]
+- !private ["s20TextOutputStreamableP", "EmailAddress"]
+- ["s20TextOutputStreamableP", "emailAddress"]
+- !private ["s23_BidirectionalIndexableP", "EmailAddress"]
+- ["s23_BidirectionalIndexableP", "emailAddress"]
+- !private ["10Foundation13_CFBridgeableP", "EmailAddress"]
+- ["10Foundation13_CFBridgeableP", "emailAddress"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "EmailAddress"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "emailAddress"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "EmailAddress"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "emailAddress"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "EmailAddress"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "emailAddress"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "EmailAddress"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "emailAddress"]
+- !private ["s33_ExpressibleByStringInterpolationP", "EmailAddress"]
+- ["s33_ExpressibleByStringInterpolationP", "emailAddress"]
+- !private ["s10_IndexableP", "EmailAddress"]
+- ["s10_IndexableP", "emailAddress"]
+- !private ["s14_IndexableBaseP", "EmailAddress"]
+- ["s14_IndexableBaseP", "emailAddress"]
+- !private ["10Foundation13_NSBridgeableP", "EmailAddress"]
+- ["10Foundation13_NSBridgeableP", "emailAddress"]
+- !private ["10Foundation17_ObjectBridgeableP", "EmailAddress"]
+- ["10Foundation17_ObjectBridgeableP", "emailAddress"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "EmailAddress"]
+- ["10Foundation21_ObjectTypeBridgeableP", "emailAddress"]
+- !private ["s26_RangeReplaceableIndexableP", "EmailAddress"]
+- ["s26_RangeReplaceableIndexableP", "emailAddress"]
+- !private ["s16_SwiftStringViewP", "EmailAddress"]
+- ["s16_SwiftStringViewP", "emailAddress"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "4SMTP12EmailAddressV"
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "17d8a2bbd4c1248a089204a758e65b05"

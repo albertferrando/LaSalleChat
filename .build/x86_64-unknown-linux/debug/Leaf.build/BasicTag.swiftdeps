@@ -1,0 +1,44 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BasicTag"
+provides-nominal:
+- "4Leaf8BasicTagP"
+provides-member:
+- ["4Leaf8BasicTagP", ""]
+- ["4Leaf8BasicTagP", "run"]
+depends-top-level:
+- "ArgumentList"
+- "BasicTag"
+- "Node"
+- "Tag"
+- "TagTemplate"
+depends-member:
+- ["4Leaf8BasicTagP", "ArgumentList"]
+- ["4Leaf8BasicTagP", "Node"]
+- ["4Leaf8BasicTagP", "TagTemplate"]
+- ["4Leaf8BasicTagP", "run"]
+- ["4Leaf3TagP", "ArgumentList"]
+- ["4Leaf3TagP", "Node"]
+- ["4Leaf3TagP", "TagTemplate"]
+- ["4Leaf3TagP", "run"]
+- ["4Leaf3TagP", ""]
+depends-nominal:
+- "4Leaf8BasicTagP"
+- "4Leaf3TagP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "e8788c8ce7f25e96039006acc00d6564"

@@ -1,0 +1,320 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OSRandom"
+- "makeRandom"
+provides-nominal:
+- "6Random8OSRandomC"
+provides-member:
+- ["6Random8OSRandomC", ""]
+- ["Si", ""]
+- ["Si", "maxByte"]
+depends-top-level:
+- !private "%"
+- "*"
+- "+"
+- !private "+="
+- !private "-"
+- !private "..<"
+- "Bool"
+- "BooleanLiteralType"
+- "Byte"
+- "Bytes"
+- "Date"
+- "EmptyInitializable"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "OSRandom"
+- "RandomProtocol"
+- !private "StringLiteralType"
+- "UInt32"
+- !private "fatalError"
+- "libc"
+- "makeRandom"
+- !private "randomInitialized"
+depends-member:
+- ["s19BinaryFloatingPointP", "truncatingRemainder"]
+- ["s13BinaryIntegerP", "Byte"]
+- ["s13BinaryIntegerP", "Int"]
+- ["s13BinaryIntegerP", "init"]
+- ["s13BinaryIntegerP", "max"]
+- !private ["s13BinaryIntegerP", "maxByte"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits16BytesConvertibleP", "max"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesInitializableP", "max"]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["4Bits18BytesRepresentableP", "max"]
+- ["s7CVarArgP", "Byte"]
+- ["s7CVarArgP", "Int"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "maxByte"]
+- ["s7CVarArgP", "truncatingRemainder"]
+- ["s10ComparableP", "Byte"]
+- ["s10ComparableP", "Int"]
+- ["s10ComparableP", "init"]
+- ["s10ComparableP", "max"]
+- !private ["s10ComparableP", "maxByte"]
+- ["s10ComparableP", "timeIntervalSinceReferenceDate"]
+- ["s10ComparableP", "truncatingRemainder"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "timeIntervalSinceReferenceDate"]
+- ["s28CustomDebugStringConvertibleP", "truncatingRemainder"]
+- ["s29CustomPlaygroundQuickLookableP", "Byte"]
+- ["s29CustomPlaygroundQuickLookableP", "Int"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "max"]
+- !private ["s29CustomPlaygroundQuickLookableP", "maxByte"]
+- ["s29CustomPlaygroundQuickLookableP", "timeIntervalSinceReferenceDate"]
+- ["s29CustomPlaygroundQuickLookableP", "truncatingRemainder"]
+- ["s17CustomReflectableP", "Byte"]
+- ["s17CustomReflectableP", "Int"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "max"]
+- !private ["s17CustomReflectableP", "maxByte"]
+- ["s17CustomReflectableP", "timeIntervalSinceReferenceDate"]
+- ["s17CustomReflectableP", "truncatingRemainder"]
+- ["s23CustomStringConvertibleP", "Byte"]
+- ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "maxByte"]
+- ["s23CustomStringConvertibleP", "timeIntervalSinceReferenceDate"]
+- ["s23CustomStringConvertibleP", "truncatingRemainder"]
+- ["10Foundation4DateV", "init"]
+- ["10Foundation4DateV", "timeIntervalSinceReferenceDate"]
+- ["s9DecodableP", "Byte"]
+- ["s9DecodableP", "Int"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- ["s9DecodableP", "max"]
+- !private ["s9DecodableP", "maxByte"]
+- ["s9DecodableP", "timeIntervalSinceReferenceDate"]
+- ["s9DecodableP", "truncatingRemainder"]
+- ["Sd", "truncatingRemainder"]
+- !private ["4Core18EmptyInitializableP", "Byte"]
+- ["4Core18EmptyInitializableP", "bytes"]
+- ["4Core18EmptyInitializableP", "init"]
+- !private ["4Core18EmptyInitializableP", "makeRandom"]
+- ["4Core18EmptyInitializableP", ""]
+- ["s9EncodableP", "Byte"]
+- ["s9EncodableP", "Int"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- ["s9EncodableP", "max"]
+- !private ["s9EncodableP", "maxByte"]
+- ["s9EncodableP", "timeIntervalSinceReferenceDate"]
+- ["s9EncodableP", "truncatingRemainder"]
+- ["s9EquatableP", "Byte"]
+- ["s9EquatableP", "Int"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "max"]
+- !private ["s9EquatableP", "maxByte"]
+- ["s9EquatableP", "timeIntervalSinceReferenceDate"]
+- ["s9EquatableP", "truncatingRemainder"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s25ExpressibleByFloatLiteralP", "truncatingRemainder"]
+- ["s27ExpressibleByIntegerLiteralP", "Byte"]
+- ["s27ExpressibleByIntegerLiteralP", "Int"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "max"]
+- !private ["s27ExpressibleByIntegerLiteralP", "maxByte"]
+- ["s27ExpressibleByIntegerLiteralP", "truncatingRemainder"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s17FixedWidthIntegerP", "Byte"]
+- ["s17FixedWidthIntegerP", "Int"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["s17FixedWidthIntegerP", "max"]
+- !private ["s17FixedWidthIntegerP", "maxByte"]
+- ["s13FloatingPointP", "truncatingRemainder"]
+- ["s8HashableP", "Byte"]
+- ["s8HashableP", "Int"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "max"]
+- !private ["s8HashableP", "maxByte"]
+- ["s8HashableP", "timeIntervalSinceReferenceDate"]
+- ["s8HashableP", "truncatingRemainder"]
+- ["Si", "Byte"]
+- ["Si", "Int"]
+- ["Si", "init"]
+- ["Si", "maxByte"]
+- ["s25LosslessStringConvertibleP", "Byte"]
+- ["s25LosslessStringConvertibleP", "Int"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "max"]
+- !private ["s25LosslessStringConvertibleP", "maxByte"]
+- ["s25LosslessStringConvertibleP", "truncatingRemainder"]
+- ["s10MirrorPathP", "Byte"]
+- ["s10MirrorPathP", "Int"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "maxByte"]
+- ["s7NumericP", "Byte"]
+- ["s7NumericP", "Int"]
+- ["s7NumericP", "init"]
+- ["s7NumericP", "max"]
+- !private ["s7NumericP", "maxByte"]
+- ["s7NumericP", "truncatingRemainder"]
+- !private ["6Random8OSRandomC", "Byte"]
+- ["6Random8OSRandomC", "Bytes"]
+- ["6Random8OSRandomC", "Int"]
+- ["6Random8OSRandomC", "bytes"]
+- ["6Random8OSRandomC", "deinit"]
+- ["6Random8OSRandomC", "init"]
+- !private ["6Random8OSRandomC", "makeRandom"]
+- !private ["6Random0A8ProtocolP", "Byte"]
+- ["6Random0A8ProtocolP", "bytes"]
+- ["6Random0A8ProtocolP", "init"]
+- !private ["6Random0A8ProtocolP", "makeRandom"]
+- ["6Random0A8ProtocolP", ""]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["10Foundation20ReferenceConvertibleP", "timeIntervalSinceReferenceDate"]
+- ["s13SignedIntegerP", "Byte"]
+- ["s13SignedIntegerP", "Int"]
+- ["s13SignedIntegerP", "init"]
+- !private ["s13SignedIntegerP", "maxByte"]
+- ["s13SignedNumericP", "Byte"]
+- ["s13SignedNumericP", "Int"]
+- ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "maxByte"]
+- ["s13SignedNumericP", "truncatingRemainder"]
+- !private ["s12StaticStringV", "init"]
+- ["s10StrideableP", "Byte"]
+- ["s10StrideableP", "Int"]
+- ["s10StrideableP", "init"]
+- ["s10StrideableP", "max"]
+- !private ["s10StrideableP", "maxByte"]
+- ["s10StrideableP", "truncatingRemainder"]
+- ["s6UInt32V", "init"]
+- !private ["s5UInt8V", "init"]
+- ["s5UInt8V", "max"]
+- ["s15UnsignedIntegerP", "init"]
+- ["s15UnsignedIntegerP", "max"]
+- ["s18_BitwiseOperationsP", "Byte"]
+- ["s18_BitwiseOperationsP", "Int"]
+- ["s18_BitwiseOperationsP", "init"]
+- ["s18_BitwiseOperationsP", "max"]
+- !private ["s18_BitwiseOperationsP", "maxByte"]
+- !private ["10Foundation13_CFBridgeableP", "_getBuiltinLogicValue"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- ["10Foundation13_CFBridgeableP", "timeIntervalSinceReferenceDate"]
+- ["s15_CVarArgAlignedP", "truncatingRemainder"]
+- ["s22_CVarArgPassedAsDoubleP", "truncatingRemainder"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "truncatingRemainder"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "Byte"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "Int"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "max"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "maxByte"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "truncatingRemainder"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- ["10Foundation13_NSBridgeableP", "timeIntervalSinceReferenceDate"]
+- ["10Foundation17_ObjectBridgeableP", "Byte"]
+- ["10Foundation17_ObjectBridgeableP", "Int"]
+- !private ["10Foundation17_ObjectBridgeableP", "_getBuiltinLogicValue"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- ["10Foundation17_ObjectBridgeableP", "max"]
+- !private ["10Foundation17_ObjectBridgeableP", "maxByte"]
+- ["10Foundation17_ObjectBridgeableP", "timeIntervalSinceReferenceDate"]
+- ["10Foundation17_ObjectBridgeableP", "truncatingRemainder"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Byte"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Int"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "_getBuiltinLogicValue"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- ["10Foundation21_ObjectTypeBridgeableP", "max"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "maxByte"]
+- ["10Foundation21_ObjectTypeBridgeableP", "timeIntervalSinceReferenceDate"]
+- ["10Foundation21_ObjectTypeBridgeableP", "truncatingRemainder"]
+- ["s11_StrideableP", "Byte"]
+- ["s11_StrideableP", "Int"]
+- ["s11_StrideableP", "init"]
+- ["s11_StrideableP", "max"]
+- !private ["s11_StrideableP", "maxByte"]
+- ["s11_StrideableP", "truncatingRemainder"]
+- !private ["s14_StringElementP", "init"]
+- ["s14_StringElementP", "max"]
+depends-nominal:
+- "s19BinaryFloatingPointP"
+- "s13BinaryIntegerP"
+- !private "Sb"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "s9DecodableP"
+- "Sd"
+- "4Core18EmptyInitializableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s17FixedWidthIntegerP"
+- "s13FloatingPointP"
+- "s8HashableP"
+- "Si"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "s7NumericP"
+- "6Random8OSRandomC"
+- "6Random0A8ProtocolP"
+- "10Foundation20ReferenceConvertibleP"
+- "s13SignedIntegerP"
+- "s13SignedNumericP"
+- !private "s12StaticStringV"
+- "s10StrideableP"
+- "s6UInt32V"
+- "s5UInt8V"
+- "s15UnsignedIntegerP"
+- "s18_BitwiseOperationsP"
+- "10Foundation13_CFBridgeableP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s11_StrideableP"
+- "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "56f4cf7854504c374a0eac53249626d6"

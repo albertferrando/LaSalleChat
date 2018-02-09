@@ -1,0 +1,157 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4SMTP10SMTPClientC", ""]
+- ["4SMTP10SMTPClientC", "transmit"]
+- ["4SMTP10SMTPClientC", "transmit"]
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Bytes"
+- "Int"
+- "SMTPClient"
+- !private "SMTPClientError"
+- "String"
+- !private "crlf"
+depends-member:
+- ["s13BinaryIntegerP", "carriageReturn"]
+- ["s13BinaryIntegerP", "newLine"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["4Bits16BytesConvertibleP", "carriageReturn"]
+- ["4Bits16BytesConvertibleP", "newLine"]
+- ["4Bits18BytesInitializableP", "carriageReturn"]
+- ["4Bits18BytesInitializableP", "newLine"]
+- ["4Bits18BytesRepresentableP", "carriageReturn"]
+- ["4Bits18BytesRepresentableP", "newLine"]
+- ["s7CVarArgP", "carriageReturn"]
+- ["s7CVarArgP", "newLine"]
+- !private ["9Transport12ClientStreamP", "write"]
+- ["s10ComparableP", "carriageReturn"]
+- ["s10ComparableP", "newLine"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "carriageReturn"]
+- ["s29CustomPlaygroundQuickLookableP", "newLine"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "carriageReturn"]
+- ["s17CustomReflectableP", "newLine"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "carriageReturn"]
+- ["s23CustomStringConvertibleP", "newLine"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "carriageReturn"]
+- ["s9DecodableP", "newLine"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "carriageReturn"]
+- ["s9EncodableP", "newLine"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "carriageReturn"]
+- ["s9EquatableP", "newLine"]
+- !private ["s5ErrorP", "unexpectedReply"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s27ExpressibleByIntegerLiteralP", "carriageReturn"]
+- ["s27ExpressibleByIntegerLiteralP", "newLine"]
+- ["s17FixedWidthIntegerP", "carriageReturn"]
+- ["s17FixedWidthIntegerP", "newLine"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "carriageReturn"]
+- ["s8HashableP", "newLine"]
+- !private ["9Transport14InternetStreamP", "write"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "carriageReturn"]
+- ["s25LosslessStringConvertibleP", "newLine"]
+- ["s7NumericP", "carriageReturn"]
+- ["s7NumericP", "newLine"]
+- !private ["9Transport14ReadableStreamP", "write"]
+- ["4SMTP10SMTPClientC", "Bool"]
+- ["4SMTP10SMTPClientC", "Int"]
+- !private ["4SMTP10SMTPClientC", "SMTPClientError"]
+- ["4SMTP10SMTPClientC", "String"]
+- !private ["4SMTP10SMTPClientC", "acceptReply"]
+- !private ["4SMTP10SMTPClientC", "crlf"]
+- !private ["4SMTP10SMTPClientC", "stream"]
+- ["4SMTP10SMTPClientC", "transmit"]
+- !private ["4SMTP15SMTPClientErrorO", "deinit"]
+- !private ["4SMTP15SMTPClientErrorO", "unexpectedReply"]
+- !private ["9Transport6StreamP", "write"]
+- ["s10StrideableP", "carriageReturn"]
+- ["s10StrideableP", "newLine"]
+- ["s5UInt8V", "carriageReturn"]
+- ["s5UInt8V", "newLine"]
+- ["s15UnsignedIntegerP", "carriageReturn"]
+- ["s15UnsignedIntegerP", "newLine"]
+- !private ["9Transport15WriteableStreamP", "write"]
+- ["s18_BitwiseOperationsP", "carriageReturn"]
+- ["s18_BitwiseOperationsP", "newLine"]
+- !private ["10Foundation13_CFBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "carriageReturn"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "newLine"]
+- !private ["10Foundation17_ObjectBridgeableP", "_getBuiltinLogicValue"]
+- ["10Foundation17_ObjectBridgeableP", "carriageReturn"]
+- ["10Foundation17_ObjectBridgeableP", "newLine"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "_getBuiltinLogicValue"]
+- ["10Foundation21_ObjectTypeBridgeableP", "carriageReturn"]
+- ["10Foundation21_ObjectTypeBridgeableP", "newLine"]
+- ["s11_StrideableP", "carriageReturn"]
+- ["s11_StrideableP", "newLine"]
+- ["s14_StringElementP", "carriageReturn"]
+- ["s14_StringElementP", "newLine"]
+depends-nominal:
+- "s13BinaryIntegerP"
+- !private "Sb"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- !private "9Transport12ClientStreamP"
+- "s10ComparableP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "9Transport14InternetStreamP"
+- "s25LosslessStringConvertibleP"
+- "s7NumericP"
+- !private "9Transport14ReadableStreamP"
+- "4SMTP10SMTPClientC"
+- !private "4SMTP15SMTPClientErrorO"
+- !private "9Transport6StreamP"
+- "s10StrideableP"
+- "s5UInt8V"
+- "s15UnsignedIntegerP"
+- !private "9Transport15WriteableStreamP"
+- "s18_BitwiseOperationsP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s11_StrideableP"
+- "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "9efeea9a9957628a276b039233665e57"

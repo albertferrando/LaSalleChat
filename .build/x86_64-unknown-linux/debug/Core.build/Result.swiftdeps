@@ -1,0 +1,42 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Result"
+provides-nominal:
+- "4Core6ResultO"
+provides-member:
+- ["4Core6ResultO", ""]
+- ["4Core6ResultO", "extract"]
+- ["4Core6ResultO", "value"]
+- ["4Core6ResultO", "error"]
+- ["4Core6ResultO", "succeeded"]
+depends-top-level:
+- !private "!="
+- "Bool"
+- "Error"
+- "Result"
+depends-member:
+- ["4Core6ResultO", "Bool"]
+- ["4Core6ResultO", "Error"]
+- ["4Core6ResultO", "T"]
+- ["4Core6ResultO", "error"]
+- ["4Core6ResultO", "extract"]
+- ["4Core6ResultO", "failure"]
+- ["4Core6ResultO", "succeeded"]
+- ["4Core6ResultO", "success"]
+- ["4Core6ResultO", "value"]
+depends-nominal:
+- "4Core6ResultO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "ca9e534b60ad4ef0f53cb526fc2effce"

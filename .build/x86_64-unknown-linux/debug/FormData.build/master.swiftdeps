@@ -1,0 +1,8 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "b5232bcce62268b3387822d3d7499318"
+build_time: [1518177186, 295847558]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/FormData/ContentDispositionParser.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/FormData/Field.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/FormData/Parser.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/multipart.git--2153820246393347893/Sources/FormData/Serializer.swift": [1518177131, 0]

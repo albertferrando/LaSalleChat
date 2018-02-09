@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmailAttachmentRepresentable"
+provides-nominal:
+- "4SMTP28EmailAttachmentRepresentableP"
+- "4SMTP15EmailAttachmentV"
+provides-member:
+- ["4SMTP28EmailAttachmentRepresentableP", ""]
+- ["4SMTP15EmailAttachmentV", ""]
+depends-top-level:
+- "EmailAttachment"
+- "EmailAttachmentRepresentable"
+depends-member:
+- ["4SMTP15EmailAttachmentV", "EmailAttachment"]
+- ["4SMTP15EmailAttachmentV", "deinit"]
+- ["4SMTP15EmailAttachmentV", "emailAttachment"]
+- ["4SMTP28EmailAttachmentRepresentableP", "EmailAttachment"]
+- ["4SMTP28EmailAttachmentRepresentableP", "emailAttachment"]
+- ["4SMTP28EmailAttachmentRepresentableP", ""]
+depends-nominal:
+- "4SMTP15EmailAttachmentV"
+- "4SMTP28EmailAttachmentRepresentableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "3f620df7223a43f22785f059a0147e09"

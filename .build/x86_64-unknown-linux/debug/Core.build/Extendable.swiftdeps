@@ -1,0 +1,30 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Extendable"
+provides-nominal:
+- "4Core10ExtendableP"
+provides-member:
+- ["4Core10ExtendableP", ""]
+depends-top-level:
+- "AnyObject"
+- "Extendable"
+- "String"
+depends-member:
+- ["4Core10ExtendableP", "String"]
+- ["4Core10ExtendableP", "extend"]
+depends-nominal:
+- "4Core10ExtendableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "ff9148aaaeada2c91d34bb118f58b9f4"

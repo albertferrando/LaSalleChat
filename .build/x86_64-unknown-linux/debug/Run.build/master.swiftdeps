@@ -1,0 +1,5 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "07a039820fc31372e8aded55ec8669dc"
+build_time: [1518177206, 672561534]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/Sources/Run/main.swift": [1518019683, 0]

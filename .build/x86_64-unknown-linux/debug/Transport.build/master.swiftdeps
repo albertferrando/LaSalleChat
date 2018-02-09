@@ -1,0 +1,14 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "3842d0a003606318e342acafb6b07c46"
+build_time: [1518177155, 573838586]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Exports.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Internet/ClientStream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Internet/InternetStream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Internet/Port.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Internet/ServerStream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Streams/FoundationStream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Streams/ReadableStream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Streams/Stream.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Streams/StreamError.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sockets.git-1550083001277339713/Sources/Transport/Streams/WriteableStream.swift": [1518177134, 0]

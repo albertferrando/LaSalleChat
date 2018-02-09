@@ -1,0 +1,328 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4SMTP10SMTPClientC", ""]
+- ["4SMTP10SMTPClientC", "authorize"]
+depends-top-level:
+- !private "&&"
+- !private "=="
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "SMTPAuthMethod"
+- "SMTPClient"
+- !private "SMTPClientError"
+- "SMTPCredentials"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "base64Decoded"]
+- !private ["Sa", "base64Encoded"]
+- !private ["Sa", "makeString"]
+- !private ["s23BidirectionalCollectionP", "base64Decoded"]
+- !private ["s23BidirectionalCollectionP", "base64Encoded"]
+- !private ["s23BidirectionalCollectionP", "equals"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "makeBytes"]
+- !private ["s23BidirectionalCollectionP", "makeString"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["4Bits16BytesConvertibleP", "equals"]
+- !private ["4Bits16BytesConvertibleP", "init"]
+- !private ["4Bits16BytesConvertibleP", "makeBytes"]
+- !private ["4Bits18BytesInitializableP", "equals"]
+- !private ["4Bits18BytesInitializableP", "init"]
+- !private ["4Bits18BytesInitializableP", "makeBytes"]
+- !private ["4Bits18BytesRepresentableP", "equals"]
+- !private ["4Bits18BytesRepresentableP", "init"]
+- !private ["4Bits18BytesRepresentableP", "makeBytes"]
+- !private ["s10CollectionP", "base64Decoded"]
+- !private ["s10CollectionP", "base64Encoded"]
+- !private ["s10CollectionP", "equals"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "makeBytes"]
+- !private ["s10CollectionP", "makeString"]
+- !private ["s10ComparableP", "equals"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "makeBytes"]
+- !private ["s28CustomDebugStringConvertibleP", "base64Decoded"]
+- !private ["s28CustomDebugStringConvertibleP", "base64Encoded"]
+- !private ["s28CustomDebugStringConvertibleP", "equals"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "makeBytes"]
+- !private ["s28CustomDebugStringConvertibleP", "makeString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "equals"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "makeBytes"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "base64Decoded"]
+- !private ["s17CustomReflectableP", "base64Encoded"]
+- !private ["s17CustomReflectableP", "equals"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "makeBytes"]
+- !private ["s17CustomReflectableP", "makeString"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "base64Decoded"]
+- !private ["s23CustomStringConvertibleP", "base64Encoded"]
+- !private ["s23CustomStringConvertibleP", "equals"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "makeBytes"]
+- !private ["s23CustomStringConvertibleP", "makeString"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "base64Decoded"]
+- !private ["s9DecodableP", "base64Encoded"]
+- !private ["s9DecodableP", "equals"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "makeBytes"]
+- !private ["s9DecodableP", "makeString"]
+- !private ["4SMTP25EmailAddressRepresentableP", "equals"]
+- !private ["4SMTP25EmailAddressRepresentableP", "init"]
+- !private ["4SMTP25EmailAddressRepresentableP", "makeBytes"]
+- !private ["4SMTP22EmailBodyRepresentableP", "equals"]
+- !private ["4SMTP22EmailBodyRepresentableP", "init"]
+- !private ["4SMTP22EmailBodyRepresentableP", "makeBytes"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "base64Decoded"]
+- !private ["s9EncodableP", "base64Encoded"]
+- !private ["s9EncodableP", "equals"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "makeBytes"]
+- !private ["s9EncodableP", "makeString"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "equals"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "login"]
+- !private ["s9EquatableP", "makeBytes"]
+- ["s9EquatableP", "plain"]
+- !private ["s5ErrorP", "authorizationFailed"]
+- !private ["s5ErrorP", "invalidPassword"]
+- !private ["s5ErrorP", "invalidUsername"]
+- !private ["s25ExpressibleByArrayLiteralP", "base64Decoded"]
+- !private ["s25ExpressibleByArrayLiteralP", "base64Encoded"]
+- !private ["s25ExpressibleByArrayLiteralP", "makeString"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "equals"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s26ExpressibleByStringLiteralP", "equals"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "equals"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "equals"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "login"]
+- !private ["s8HashableP", "makeBytes"]
+- ["s8HashableP", "plain"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "equals"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "makeBytes"]
+- !private ["s10MirrorPathP", "equals"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "makeBytes"]
+- !private ["s17MutableCollectionP", "base64Decoded"]
+- !private ["s17MutableCollectionP", "base64Encoded"]
+- !private ["s17MutableCollectionP", "makeString"]
+- !private ["s22RandomAccessCollectionP", "base64Decoded"]
+- !private ["s22RandomAccessCollectionP", "base64Encoded"]
+- !private ["s22RandomAccessCollectionP", "makeString"]
+- !private ["s26RangeReplaceableCollectionP", "base64Decoded"]
+- !private ["s26RangeReplaceableCollectionP", "base64Encoded"]
+- !private ["s26RangeReplaceableCollectionP", "equals"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "makeBytes"]
+- !private ["s26RangeReplaceableCollectionP", "makeString"]
+- ["4SMTP14SMTPAuthMethodO", "login"]
+- ["4SMTP14SMTPAuthMethodO", "plain"]
+- ["4SMTP10SMTPClientC", "SMTPAuthMethod"]
+- !private ["4SMTP10SMTPClientC", "SMTPClientError"]
+- ["4SMTP10SMTPClientC", "SMTPCredentials"]
+- !private ["4SMTP10SMTPClientC", "acceptReplyLine"]
+- ["4SMTP10SMTPClientC", "authorize"]
+- !private ["4SMTP10SMTPClientC", "authorizeLogin"]
+- !private ["4SMTP10SMTPClientC", "authorizePlain"]
+- !private ["4SMTP10SMTPClientC", "transmit"]
+- !private ["4SMTP15SMTPClientErrorO", "authorizationFailed"]
+- !private ["4SMTP15SMTPClientErrorO", "deinit"]
+- !private ["4SMTP15SMTPClientErrorO", "invalidPassword"]
+- !private ["4SMTP15SMTPClientErrorO", "invalidUsername"]
+- !private ["4SMTP15SMTPCredentialsV", "pass"]
+- !private ["4SMTP15SMTPCredentialsV", "user"]
+- !private ["s8SequenceP", "base64Decoded"]
+- !private ["s8SequenceP", "base64Encoded"]
+- !private ["s8SequenceP", "equals"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "makeBytes"]
+- !private ["s8SequenceP", "makeString"]
+- !private ["SS", "equals"]
+- !private ["SS", "init"]
+- !private ["SS", "makeBytes"]
+- !private ["s14StringProtocolP", "equals"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "makeBytes"]
+- !private ["s16TextOutputStreamP", "equals"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "makeBytes"]
+- !private ["s20TextOutputStreamableP", "equals"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "makeBytes"]
+- !private ["s14_ArrayProtocolP", "base64Decoded"]
+- !private ["s14_ArrayProtocolP", "base64Encoded"]
+- !private ["s14_ArrayProtocolP", "makeString"]
+- !private ["s23_BidirectionalIndexableP", "base64Decoded"]
+- !private ["s23_BidirectionalIndexableP", "base64Encoded"]
+- !private ["s23_BidirectionalIndexableP", "equals"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "makeBytes"]
+- !private ["s23_BidirectionalIndexableP", "makeString"]
+- !private ["10Foundation13_CFBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation13_CFBridgeableP", "base64Decoded"]
+- !private ["10Foundation13_CFBridgeableP", "base64Encoded"]
+- !private ["10Foundation13_CFBridgeableP", "equals"]
+- !private ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "makeBytes"]
+- !private ["10Foundation13_CFBridgeableP", "makeString"]
+- !private ["s24_DestructorSafeContainerP", "base64Decoded"]
+- !private ["s24_DestructorSafeContainerP", "base64Encoded"]
+- !private ["s24_DestructorSafeContainerP", "makeString"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "equals"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "equals"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "makeBytes"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "equals"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeBytes"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "equals"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33_ExpressibleByStringInterpolationP", "equals"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "makeBytes"]
+- !private ["s10_IndexableP", "base64Decoded"]
+- !private ["s10_IndexableP", "base64Encoded"]
+- !private ["s10_IndexableP", "equals"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "makeBytes"]
+- !private ["s10_IndexableP", "makeString"]
+- !private ["s14_IndexableBaseP", "base64Decoded"]
+- !private ["s14_IndexableBaseP", "base64Encoded"]
+- !private ["s14_IndexableBaseP", "equals"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "makeBytes"]
+- !private ["s14_IndexableBaseP", "makeString"]
+- !private ["s17_MutableIndexableP", "base64Decoded"]
+- !private ["s17_MutableIndexableP", "base64Encoded"]
+- !private ["s17_MutableIndexableP", "makeString"]
+- !private ["10Foundation13_NSBridgeableP", "base64Decoded"]
+- !private ["10Foundation13_NSBridgeableP", "base64Encoded"]
+- !private ["10Foundation13_NSBridgeableP", "equals"]
+- !private ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "makeBytes"]
+- !private ["10Foundation13_NSBridgeableP", "makeString"]
+- !private ["10Foundation17_ObjectBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation17_ObjectBridgeableP", "base64Decoded"]
+- !private ["10Foundation17_ObjectBridgeableP", "base64Encoded"]
+- !private ["10Foundation17_ObjectBridgeableP", "equals"]
+- !private ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "makeBytes"]
+- !private ["10Foundation17_ObjectBridgeableP", "makeString"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "base64Decoded"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "base64Encoded"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "equals"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "makeBytes"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "makeString"]
+- !private ["s22_RandomAccessIndexableP", "base64Decoded"]
+- !private ["s22_RandomAccessIndexableP", "base64Encoded"]
+- !private ["s22_RandomAccessIndexableP", "makeString"]
+- !private ["s26_RangeReplaceableIndexableP", "base64Decoded"]
+- !private ["s26_RangeReplaceableIndexableP", "base64Encoded"]
+- !private ["s26_RangeReplaceableIndexableP", "equals"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "makeBytes"]
+- !private ["s26_RangeReplaceableIndexableP", "makeString"]
+- !private ["s16_SwiftStringViewP", "equals"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "makeBytes"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "4SMTP25EmailAddressRepresentableP"
+- !private "4SMTP22EmailBodyRepresentableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- "4SMTP14SMTPAuthMethodO"
+- "4SMTP10SMTPClientC"
+- !private "4SMTP15SMTPClientErrorO"
+- !private "4SMTP15SMTPCredentialsV"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "e5a22fae8fa9ef8943eab894b2c8cdf6"

@@ -1,0 +1,115 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "4JSONAAV"
+provides-member:
+- ["4JSONAAV", ""]
+depends-top-level:
+- !private "BooleanLiteralType"
+- "Bytes"
+- "BytesConvertible"
+- "JSON"
+depends-member:
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits16BytesConvertibleP", "makeBytes"]
+- !private ["4Bits16BytesConvertibleP", "serialize"]
+- ["4Bits16BytesConvertibleP", ""]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesInitializableP", "makeBytes"]
+- !private ["4Bits18BytesInitializableP", "serialize"]
+- ["4Bits18BytesInitializableP", ""]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["4Bits18BytesRepresentableP", "makeBytes"]
+- !private ["4Bits18BytesRepresentableP", "serialize"]
+- ["4Bits18BytesRepresentableP", ""]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "makeBytes"]
+- !private ["s9EquatableP", "serialize"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s25ExpressibleByArrayLiteralP", "makeBytes"]
+- !private ["s25ExpressibleByArrayLiteralP", "serialize"]
+- ["s27ExpressibleByBooleanLiteralP", "init"]
+- ["s27ExpressibleByBooleanLiteralP", "makeBytes"]
+- !private ["s27ExpressibleByBooleanLiteralP", "serialize"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- ["s30ExpressibleByDictionaryLiteralP", "makeBytes"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "serialize"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "serialize"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s25ExpressibleByFloatLiteralP", "makeBytes"]
+- !private ["s25ExpressibleByFloatLiteralP", "serialize"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "makeBytes"]
+- !private ["s27ExpressibleByIntegerLiteralP", "serialize"]
+- ["s23ExpressibleByNilLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "makeBytes"]
+- !private ["s23ExpressibleByNilLiteralP", "serialize"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- !private ["s26ExpressibleByStringLiteralP", "serialize"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "serialize"]
+- ["4Node14FuzzyConverterP", "init"]
+- ["4Node14FuzzyConverterP", "makeBytes"]
+- !private ["4Node14FuzzyConverterP", "serialize"]
+- ["4JSONAAV", "Bytes"]
+- ["4JSONAAV", "deinit"]
+- ["4JSONAAV", "init"]
+- ["4JSONAAV", "makeBytes"]
+- !private ["4JSONAAV", "serialize"]
+- ["4JSON17JSONRepresentableP", "init"]
+- ["4JSON17JSONRepresentableP", "makeBytes"]
+- !private ["4JSON17JSONRepresentableP", "serialize"]
+- ["4Node0A13InitializableP", "init"]
+- ["4Node0A13InitializableP", "makeBytes"]
+- !private ["4Node0A13InitializableP", "serialize"]
+- ["4Node0A13RepresentableP", "init"]
+- ["4Node0A13RepresentableP", "makeBytes"]
+- !private ["4Node0A13RepresentableP", "serialize"]
+- ["13PathIndexableAAP", "init"]
+- ["13PathIndexableAAP", "makeBytes"]
+- !private ["13PathIndexableAAP", "serialize"]
+- ["4Node21StructuredDataWrapperP", "init"]
+- ["4Node21StructuredDataWrapperP", "makeBytes"]
+- !private ["4Node21StructuredDataWrapperP", "serialize"]
+depends-nominal:
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "4Node14FuzzyConverterP"
+- "4JSONAAV"
+- "4JSON17JSONRepresentableP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "13PathIndexableAAP"
+- "4Node21StructuredDataWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "183e7f9e75666635a20b5258e180b6a1"

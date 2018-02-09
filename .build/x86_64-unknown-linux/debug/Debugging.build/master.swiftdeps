@@ -1,0 +1,5 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "2ac620f819c2872fb528eaa692298067"
+build_time: [1518177148, 385731748]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/debugging.git--2113008671667154546/Sources/Debugging/Debuggable.swift": [1518177133, 0]

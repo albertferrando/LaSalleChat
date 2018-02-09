@@ -1,0 +1,285 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ResponseRepresentable"
+provides-nominal:
+- "4HTTP21ResponseRepresentableP"
+- "4HTTP8ResponseC"
+- "SS"
+- "10Foundation4DataV"
+provides-member:
+- ["4HTTP21ResponseRepresentableP", ""]
+- ["4HTTP8ResponseC", ""]
+- ["SS", ""]
+- ["10Foundation4DataV", ""]
+depends-top-level:
+- !private "Dictionary"
+- "Foundation"
+- "Response"
+- "ResponseRepresentable"
+- !private "StringLiteralType"
+- "Swift"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "Response"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "makeBytes"]
+- ["s23BidirectionalCollectionP", "makeResponse"]
+- !private ["4HTTP17BodyRepresentableP", "Response"]
+- !private ["4HTTP17BodyRepresentableP", "init"]
+- !private ["4HTTP17BodyRepresentableP", "makeBytes"]
+- ["4HTTP17BodyRepresentableP", "makeResponse"]
+- !private ["4Bits16BytesConvertibleP", "Response"]
+- !private ["4Bits16BytesConvertibleP", "init"]
+- !private ["4Bits16BytesConvertibleP", "makeBytes"]
+- ["4Bits16BytesConvertibleP", "makeResponse"]
+- !private ["4Bits18BytesInitializableP", "Response"]
+- !private ["4Bits18BytesInitializableP", "init"]
+- !private ["4Bits18BytesInitializableP", "makeBytes"]
+- ["4Bits18BytesInitializableP", "makeResponse"]
+- !private ["4Bits18BytesRepresentableP", "Response"]
+- !private ["4Bits18BytesRepresentableP", "init"]
+- !private ["4Bits18BytesRepresentableP", "makeBytes"]
+- ["4Bits18BytesRepresentableP", "makeResponse"]
+- !private ["s10CollectionP", "Response"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "makeBytes"]
+- ["s10CollectionP", "makeResponse"]
+- !private ["s10ComparableP", "Response"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "makeBytes"]
+- ["s10ComparableP", "makeResponse"]
+- !private ["s28CustomDebugStringConvertibleP", "Response"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "makeBytes"]
+- ["s28CustomDebugStringConvertibleP", "makeResponse"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Response"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "makeBytes"]
+- ["s29CustomPlaygroundQuickLookableP", "makeResponse"]
+- !private ["s17CustomReflectableP", "Response"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "makeBytes"]
+- ["s17CustomReflectableP", "makeResponse"]
+- !private ["s23CustomStringConvertibleP", "Response"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "makeBytes"]
+- ["s23CustomStringConvertibleP", "makeResponse"]
+- ["10Foundation4DataV", "Response"]
+- ["10Foundation4DataV", "deinit"]
+- ["10Foundation4DataV", "makeResponse"]
+- !private ["s9DecodableP", "Response"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "makeBytes"]
+- ["s9DecodableP", "makeResponse"]
+- !private ["s9EncodableP", "Response"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "makeBytes"]
+- ["s9EncodableP", "makeResponse"]
+- !private ["s9EquatableP", "Response"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "makeBytes"]
+- ["s9EquatableP", "makeResponse"]
+- !private ["s9EquatableP", "ok"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Response"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeResponse"]
+- !private ["s26ExpressibleByStringLiteralP", "Response"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- ["s26ExpressibleByStringLiteralP", "makeResponse"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Response"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "makeResponse"]
+- !private ["s8HashableP", "Response"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "makeBytes"]
+- ["s8HashableP", "makeResponse"]
+- !private ["s8HashableP", "ok"]
+- !private ["4HTTP9HeaderKeyV", "deinit"]
+- !private ["4HTTP9HeaderKeyV", "init"]
+- !private ["s25LosslessStringConvertibleP", "Response"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "makeBytes"]
+- ["s25LosslessStringConvertibleP", "makeResponse"]
+- !private ["4HTTP7MessageP", "init"]
+- ["4HTTP7MessageP", "makeResponse"]
+- !private ["s10MirrorPathP", "Response"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "makeBytes"]
+- ["s10MirrorPathP", "makeResponse"]
+- !private ["s17MutableCollectionP", "Response"]
+- ["s17MutableCollectionP", "makeResponse"]
+- !private ["s22RandomAccessCollectionP", "Response"]
+- ["s22RandomAccessCollectionP", "makeResponse"]
+- !private ["s26RangeReplaceableCollectionP", "Response"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "makeBytes"]
+- ["s26RangeReplaceableCollectionP", "makeResponse"]
+- !private ["10Foundation20ReferenceConvertibleP", "Response"]
+- ["10Foundation20ReferenceConvertibleP", "makeResponse"]
+- ["4HTTP8ResponseC", "Response"]
+- ["4HTTP8ResponseC", "deinit"]
+- !private ["4HTTP8ResponseC", "init"]
+- ["4HTTP8ResponseC", "makeResponse"]
+- ["4HTTP21ResponseRepresentableP", "Response"]
+- !private ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "makeBytes"]
+- ["4HTTP21ResponseRepresentableP", "makeResponse"]
+- ["4HTTP21ResponseRepresentableP", ""]
+- !private ["s8SequenceP", "Response"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "makeBytes"]
+- ["s8SequenceP", "makeResponse"]
+- !private ["4HTTP6StatusO", "ok"]
+- ["SS", "Response"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["SS", "makeBytes"]
+- ["SS", "makeResponse"]
+- !private ["s14StringProtocolP", "Response"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "makeBytes"]
+- ["s14StringProtocolP", "makeResponse"]
+- !private ["s16TextOutputStreamP", "Response"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "makeBytes"]
+- ["s16TextOutputStreamP", "makeResponse"]
+- !private ["s20TextOutputStreamableP", "Response"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "makeBytes"]
+- ["s20TextOutputStreamableP", "makeResponse"]
+- !private ["s23_BidirectionalIndexableP", "Response"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "makeBytes"]
+- ["s23_BidirectionalIndexableP", "makeResponse"]
+- !private ["10Foundation13_CFBridgeableP", "Response"]
+- !private ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "makeBytes"]
+- ["10Foundation13_CFBridgeableP", "makeResponse"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Response"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeBytes"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeResponse"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Response"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "makeBytes"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "makeResponse"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "Response"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeBytes"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeResponse"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Response"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeBytes"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeResponse"]
+- !private ["s33_ExpressibleByStringInterpolationP", "Response"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "makeBytes"]
+- ["s33_ExpressibleByStringInterpolationP", "makeResponse"]
+- !private ["s10_IndexableP", "Response"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "makeBytes"]
+- ["s10_IndexableP", "makeResponse"]
+- !private ["s14_IndexableBaseP", "Response"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "makeBytes"]
+- ["s14_IndexableBaseP", "makeResponse"]
+- !private ["s17_MutableIndexableP", "Response"]
+- ["s17_MutableIndexableP", "makeResponse"]
+- !private ["10Foundation13_NSBridgeableP", "Response"]
+- !private ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "makeBytes"]
+- ["10Foundation13_NSBridgeableP", "makeResponse"]
+- !private ["10Foundation17_ObjectBridgeableP", "Response"]
+- !private ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "makeBytes"]
+- ["10Foundation17_ObjectBridgeableP", "makeResponse"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "Response"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "makeBytes"]
+- ["10Foundation21_ObjectTypeBridgeableP", "makeResponse"]
+- !private ["s22_RandomAccessIndexableP", "Response"]
+- ["s22_RandomAccessIndexableP", "makeResponse"]
+- !private ["s26_RangeReplaceableIndexableP", "Response"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "makeBytes"]
+- ["s26_RangeReplaceableIndexableP", "makeResponse"]
+- !private ["s16_SwiftStringViewP", "Response"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "makeBytes"]
+- ["s16_SwiftStringViewP", "makeResponse"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "4HTTP17BodyRepresentableP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DataV"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "4HTTP9HeaderKeyV"
+- "s25LosslessStringConvertibleP"
+- "4HTTP7MessageP"
+- "s10MirrorPathP"
+- "s17MutableCollectionP"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "10Foundation20ReferenceConvertibleP"
+- "4HTTP8ResponseC"
+- "4HTTP21ResponseRepresentableP"
+- "s8SequenceP"
+- !private "4HTTP6StatusO"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "s17_MutableIndexableP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "34128dffe26ca13ed71a151e01e97d17"

@@ -1,0 +1,49 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Command"
+provides-nominal:
+- "7Console7CommandP"
+provides-member:
+- ["7Console7CommandP", ""]
+- ["7Console7CommandP", "signature"]
+- ["7Console7CommandP", "help"]
+depends-top-level:
+- "Argument"
+- "Command"
+- "ConsoleProtocol"
+- "Runnable"
+- "String"
+depends-member:
+- ["7Console7CommandP", "Argument"]
+- ["7Console7CommandP", "ConsoleProtocol"]
+- ["7Console7CommandP", "String"]
+- ["7Console7CommandP", "console"]
+- ["7Console7CommandP", "help"]
+- ["7Console7CommandP", "run"]
+- ["7Console7CommandP", "signature"]
+- ["7Console8RunnableP", "Argument"]
+- ["7Console8RunnableP", "ConsoleProtocol"]
+- ["7Console8RunnableP", "String"]
+- ["7Console8RunnableP", "console"]
+- ["7Console8RunnableP", "help"]
+- ["7Console8RunnableP", "run"]
+- ["7Console8RunnableP", "signature"]
+- ["7Console8RunnableP", ""]
+depends-nominal:
+- "7Console7CommandP"
+- "7Console8RunnableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "0533725072bd11c4dcad8a8a66444eec"

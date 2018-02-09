@@ -1,0 +1,31 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "background"
+provides-nominal:
+provides-member:
+depends-top-level:
+- !private "DispatchQueue"
+- "Void"
+- "background"
+depends-member:
+- !private ["8Dispatch0A6ObjectC", "async"]
+- !private ["8Dispatch0A6ObjectC", "global"]
+- !private ["8Dispatch0A5QueueC", "async"]
+- !private ["8Dispatch0A5QueueC", "global"]
+depends-nominal:
+- !private "8Dispatch0A6ObjectC"
+- !private "8Dispatch0A5QueueC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "4734017476886a60906a0294daab5d5f"

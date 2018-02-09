@@ -1,0 +1,11 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "890029bc8b47f053ecc7df99182fa8a8"
+build_time: [1518177186, 919655776]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/CacheSessions.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/MemorySessions.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/Request+Session.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/Session.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/SessionsError.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/SessionsMiddleware.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Sessions/SessionsProtocol.swift": [1518177132, 0]

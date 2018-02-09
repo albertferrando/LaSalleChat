@@ -1,0 +1,10 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "114fe5e8a94bf659583dd0dbe097f8d4"
+build_time: [1518177165, 481180645]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Model/URI.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Model/URI+Byte.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Model/URI+Modification.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Model/URI+Ports.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Model/URI+String.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/URI/Parser/Parser.swift": [1518177133, 0]

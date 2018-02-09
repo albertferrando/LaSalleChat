@@ -1,0 +1,18 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "411ae959f2b1a61e86fdbe6efd32fd00"
+build_time: [1518177183, 228424663]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Client/WebSocket+Client.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Communication/WebSocket+Send.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Connection/Headers+WebSockets.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Connection/WebSockets+Hash.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Model/Fragmentation.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Model/Frame.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Model/WebSocket.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Model/WebSocket+Error.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Request+WebSockets.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Serialization/FrameDeserializer.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Serialization/FrameSerializer.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/WebSockets/WebSocketFormatErrors.swift": [1518177133, 0]

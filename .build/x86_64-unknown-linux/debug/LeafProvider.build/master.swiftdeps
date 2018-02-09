@@ -1,0 +1,8 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "e7583682275391c537398c822c2106ef"
+build_time: [1518177205, 72439886]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/leaf-provider.git--1361236707794575052/Sources/LeafProvider/Keys.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/leaf-provider.git--1361236707794575052/Sources/LeafProvider/LeafProviderError.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/leaf-provider.git--1361236707794575052/Sources/LeafProvider/LeafRenderer.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/leaf-provider.git--1361236707794575052/Sources/LeafProvider/Provider.swift": [1518177131, 0]

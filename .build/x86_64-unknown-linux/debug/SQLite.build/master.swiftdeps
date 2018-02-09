@@ -1,0 +1,8 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "5dce1786481fc5bd17dda01c2b19e4a3"
+build_time: [1518177167, 99276273]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/SQLite/SQLite.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/SQLite/SQLite+Result.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/SQLite/SQLite+Statement.swift": [1518177133, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/SQLite/StatusError.swift": [1518177133, 0]

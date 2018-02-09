@@ -1,0 +1,13 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "81441aefa0d4604d067435aaac18597f"
+build_time: [1518177166, 979647643]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON+Bytes.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON+Equatable.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON+Fuzzy.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON+Parse.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSON+Serialize.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSONContext.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/JSONRepresentable.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/json.git--7584536515379802076/Sources/JSON/Sequence+Convertible.swift": [1518177132, 0]

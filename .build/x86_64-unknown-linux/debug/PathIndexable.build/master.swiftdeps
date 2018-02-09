@@ -1,0 +1,6 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "3c3cd382c676a5f7f7d096196c3b8cc6"
+build_time: [1518177150, 152357053]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/PathIndexable/PathIndexable.swift": [1518177131, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/node.git-3078412886256849983/Sources/PathIndexable/PathIndexable+Subscripting.swift": [1518177131, 0]

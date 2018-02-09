@@ -1,0 +1,17 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "c9cba0646834da1eab0c33f8d5896bb8"
+build_time: [1518177168, 739758448]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Config.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Config+Arguments.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Config+Directory.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/ConfigError.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/ConfigInitializable.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Env/Env.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Env/Node+Env.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Env/String+Env.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Environment.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/KeyAccessible.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/KeyAccessible+Merge.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Node+Merge.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Configs/Source.swift": [1518177132, 0]

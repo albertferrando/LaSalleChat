@@ -1,0 +1,16 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "2b8562349cb8f6008b7d7dba5ef6b8cc"
+build_time: [1518177167, 899017043]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Certificates.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ClientSocket.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Context.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Error.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Exports.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/InternetSocket.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Mode.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ReadableSocket.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/ServerSocket.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Socket.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/Utilities.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/tls.git-6576887392054126902/Sources/TLS/WriteableSocket.swift": [1518177132, 0]

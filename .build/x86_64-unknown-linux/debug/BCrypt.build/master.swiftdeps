@@ -1,0 +1,13 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "ff040af4b03eff8061776d31272c324e"
+build_time: [1518177156, 416485435]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Base64.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/BCryptError.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Convenience.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Export.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Hash.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Keys.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Parser.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Salt.swift": [1518177130, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/bcrypt.git--3126345005150630630/Sources/BCrypt/Serializer.swift": [1518177130, 0]

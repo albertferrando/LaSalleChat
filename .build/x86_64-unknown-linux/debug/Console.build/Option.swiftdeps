@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Option"
+provides-nominal:
+- "7Console6OptionV"
+provides-member:
+- ["7Console6OptionV", ""]
+depends-top-level:
+- "Argument"
+- "AssignmentPrecedence"
+- "Option"
+- "String"
+depends-member:
+- ["7Console8ArgumentP", "help"]
+- ["7Console8ArgumentP", "name"]
+- ["7Console8ArgumentP", ""]
+- ["7Console6OptionV", "String"]
+- ["7Console6OptionV", "deinit"]
+- ["7Console6OptionV", "help"]
+- ["7Console6OptionV", "init"]
+- ["7Console6OptionV", "name"]
+depends-nominal:
+- "7Console8ArgumentP"
+- "7Console6OptionV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "2b7c8f6daab23c3b987041bc4138b746"

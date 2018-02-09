@@ -1,0 +1,6 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "619c05c8914bc26e01b187c871428f71"
+build_time: [1518177166, 519916091]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Cache/CacheProtocol.swift": [1518177132, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/vapor.git-5567719720411555524/Sources/Cache/MemoryCache.swift": [1518177132, 0]

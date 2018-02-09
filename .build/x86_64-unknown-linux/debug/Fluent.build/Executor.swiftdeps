@@ -1,0 +1,129 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Executor"
+provides-nominal:
+- "6Fluent8ExecutorP"
+provides-member:
+- ["6Fluent8ExecutorP", ""]
+- ["6Fluent8ExecutorP", "raw"]
+- ["6Fluent8ExecutorP", "query"]
+depends-top-level:
+- "Executor"
+- "Node"
+- "NodeRepresentable"
+- "Query"
+- "QueryLogger"
+- !private "Raw"
+- "RawOr"
+- "String"
+- !private "rowContext"
+depends-member:
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s10CollectionP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "raw"]
+- !private ["s23CustomStringConvertibleP", "some"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EquatableP", "raw"]
+- !private ["s9EquatableP", "some"]
+- ["6Fluent8ExecutorP", "Node"]
+- ["6Fluent8ExecutorP", "NodeRepresentable"]
+- ["6Fluent8ExecutorP", "Query"]
+- ["6Fluent8ExecutorP", "QueryLogger"]
+- !private ["6Fluent8ExecutorP", "Raw"]
+- ["6Fluent8ExecutorP", "RawOr"]
+- ["6Fluent8ExecutorP", "String"]
+- ["6Fluent8ExecutorP", "query"]
+- ["6Fluent8ExecutorP", "queryLogger"]
+- ["6Fluent8ExecutorP", "raw"]
+- !private ["6Fluent8ExecutorP", "rowContext"]
+- !private ["6Fluent21ExecutorRepresentableP", "some"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s8HashableP", "raw"]
+- !private ["s8HashableP", "some"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["4Node0A13InitializableP", "map"]
+- !private ["4Node0A13RepresentableP", "makeNode"]
+- !private ["4Node0A13RepresentableP", "map"]
+- !private ["6Fluent5QueryC", "some"]
+- !private ["6Fluent18QueryRepresentableP", "some"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- ["6Fluent3RawC", "deinit"]
+- !private ["6Fluent5RawOrO", "raw"]
+- !private ["6Fluent5RawOrO", "some"]
+- !private ["6Fluent10RowContextC", "deinit"]
+- !private ["s8SequenceP", "map"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["10Foundation13_CFBridgeableP", "map"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["10Foundation13_NSBridgeableP", "map"]
+- !private ["10Foundation17_ObjectBridgeableP", "map"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- "6Fluent8ExecutorP"
+- !private "6Fluent21ExecutorRepresentableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s8HashableP"
+- !private "s17MutableCollectionP"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "6Fluent5QueryC"
+- !private "6Fluent18QueryRepresentableP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- "6Fluent3RawC"
+- !private "6Fluent5RawOrO"
+- !private "6Fluent10RowContextC"
+- !private "s8SequenceP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "9e320322b1327f41df9a3a1b5a4c6cad"

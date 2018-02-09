@@ -1,0 +1,89 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "JSONRepresentable"
+- "JSONInitializable"
+- "JSONConvertible"
+provides-nominal:
+- "4JSON17JSONRepresentableP"
+- "4JSON17JSONInitializableP"
+- "4JSON15JSONConvertibleP"
+- "4JSONAAV"
+provides-member:
+- ["4JSON17JSONRepresentableP", ""]
+- ["4JSON17JSONInitializableP", ""]
+- ["4JSON15JSONConvertibleP", ""]
+- ["4JSONAAV", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "JSON"
+- "JSONConvertible"
+- "JSONInitializable"
+- "JSONRepresentable"
+depends-member:
+- ["4Bits16BytesConvertibleP", "makeJSON"]
+- ["4Bits18BytesInitializableP", "makeJSON"]
+- ["4Bits18BytesRepresentableP", "makeJSON"]
+- ["s9EquatableP", "makeJSON"]
+- ["s25ExpressibleByArrayLiteralP", "makeJSON"]
+- ["s27ExpressibleByBooleanLiteralP", "makeJSON"]
+- ["s30ExpressibleByDictionaryLiteralP", "makeJSON"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeJSON"]
+- ["s25ExpressibleByFloatLiteralP", "makeJSON"]
+- ["s27ExpressibleByIntegerLiteralP", "makeJSON"]
+- ["s23ExpressibleByNilLiteralP", "makeJSON"]
+- ["s26ExpressibleByStringLiteralP", "makeJSON"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "makeJSON"]
+- ["4Node14FuzzyConverterP", "makeJSON"]
+- ["4JSONAAV", "JSON"]
+- ["4JSONAAV", "deinit"]
+- ["4JSONAAV", "init"]
+- ["4JSONAAV", "makeJSON"]
+- ["4JSON17JSONInitializableP", "JSON"]
+- ["4JSON17JSONInitializableP", "init"]
+- ["4JSON17JSONInitializableP", ""]
+- ["4JSON17JSONRepresentableP", "JSON"]
+- ["4JSON17JSONRepresentableP", "makeJSON"]
+- ["4JSON17JSONRepresentableP", ""]
+- ["4Node0A13InitializableP", "makeJSON"]
+- ["4Node0A13RepresentableP", "makeJSON"]
+- ["13PathIndexableAAP", "makeJSON"]
+- ["4Node21StructuredDataWrapperP", "makeJSON"]
+depends-nominal:
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "4Node14FuzzyConverterP"
+- "4JSONAAV"
+- "4JSON17JSONInitializableP"
+- "4JSON17JSONRepresentableP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "13PathIndexableAAP"
+- "4Node21StructuredDataWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "3d1d1bedf3da122f6b1671ff64c060f6"

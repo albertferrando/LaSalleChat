@@ -1,0 +1,614 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "10Foundation4DateV"
+provides-member:
+- ["10Foundation4DateV", ""]
+- ["4Node14StructuredDataO", ""]
+- ["10Foundation13DateFormatterC", ""]
+- ["4Node14StructuredDataO", "date"]
+- ["10Foundation13DateFormatterC", "iso8601"]
+- ["10Foundation13DateFormatterC", "mysql"]
+- ["10Foundation13DateFormatterC", "rfc1123"]
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- "Context"
+- "Date"
+- "DateFormatter"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Locale"
+- "NSLock"
+- "Node"
+- "NodeConvertible"
+- !private "NodeError"
+- "StringLiteralType"
+- "StructuredData"
+- "TimeZone"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["Sa", "lazy"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- !private ["s23BidirectionalCollectionP", "flatMap"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "lazy"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesRepresentableP", "init"]
+- !private ["s10CollectionP", "first"]
+- !private ["s10CollectionP", "flatMap"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "lazy"]
+- ["s10ComparableP", "Date"]
+- ["s10ComparableP", "NSLock"]
+- ["s10ComparableP", "Node"]
+- !private ["s10ComparableP", "NodeError"]
+- !private ["s10ComparableP", "incomingDateFormatters"]
+- !private ["s10ComparableP", "incomingTimestamp"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "lock"]
+- ["s10ComparableP", "makeNode"]
+- ["s10ComparableP", "timeIntervalSince1970"]
+- ["s28CustomDebugStringConvertibleP", "Date"]
+- ["s28CustomDebugStringConvertibleP", "DateFormatter"]
+- ["s28CustomDebugStringConvertibleP", "Locale"]
+- ["s28CustomDebugStringConvertibleP", "NSLock"]
+- ["s28CustomDebugStringConvertibleP", "Node"]
+- !private ["s28CustomDebugStringConvertibleP", "NodeError"]
+- ["s28CustomDebugStringConvertibleP", "TimeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "incomingDateFormatters"]
+- !private ["s28CustomDebugStringConvertibleP", "incomingTimestamp"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "iso8601"]
+- !private ["s28CustomDebugStringConvertibleP", "lazy"]
+- ["s28CustomDebugStringConvertibleP", "locale"]
+- !private ["s28CustomDebugStringConvertibleP", "lock"]
+- ["s28CustomDebugStringConvertibleP", "makeNode"]
+- ["s28CustomDebugStringConvertibleP", "mysql"]
+- ["s28CustomDebugStringConvertibleP", "rfc1123"]
+- ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- ["s28CustomDebugStringConvertibleP", "timeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "unableToConvert"]
+- !private ["s28CustomDebugStringConvertibleP", "unlock"]
+- ["s29CustomPlaygroundQuickLookableP", "Date"]
+- ["s29CustomPlaygroundQuickLookableP", "NSLock"]
+- ["s29CustomPlaygroundQuickLookableP", "Node"]
+- !private ["s29CustomPlaygroundQuickLookableP", "NodeError"]
+- !private ["s29CustomPlaygroundQuickLookableP", "incomingDateFormatters"]
+- !private ["s29CustomPlaygroundQuickLookableP", "incomingTimestamp"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "lock"]
+- ["s29CustomPlaygroundQuickLookableP", "makeNode"]
+- ["s29CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- ["s17CustomReflectableP", "Date"]
+- ["s17CustomReflectableP", "NSLock"]
+- ["s17CustomReflectableP", "Node"]
+- !private ["s17CustomReflectableP", "NodeError"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "incomingDateFormatters"]
+- !private ["s17CustomReflectableP", "incomingTimestamp"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lazy"]
+- !private ["s17CustomReflectableP", "lock"]
+- ["s17CustomReflectableP", "makeNode"]
+- ["s17CustomReflectableP", "timeIntervalSince1970"]
+- ["s23CustomStringConvertibleP", "Date"]
+- ["s23CustomStringConvertibleP", "DateFormatter"]
+- ["s23CustomStringConvertibleP", "Locale"]
+- ["s23CustomStringConvertibleP", "NSLock"]
+- ["s23CustomStringConvertibleP", "Node"]
+- !private ["s23CustomStringConvertibleP", "NodeError"]
+- ["s23CustomStringConvertibleP", "TimeZone"]
+- ["s23CustomStringConvertibleP", "date"]
+- ["s23CustomStringConvertibleP", "dateFormat"]
+- ["s23CustomStringConvertibleP", "double"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "incomingDateFormatters"]
+- !private ["s23CustomStringConvertibleP", "incomingTimestamp"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "iso8601"]
+- !private ["s23CustomStringConvertibleP", "lazy"]
+- ["s23CustomStringConvertibleP", "locale"]
+- !private ["s23CustomStringConvertibleP", "lock"]
+- ["s23CustomStringConvertibleP", "makeNode"]
+- ["s23CustomStringConvertibleP", "mysql"]
+- ["s23CustomStringConvertibleP", "number"]
+- ["s23CustomStringConvertibleP", "rfc1123"]
+- ["s23CustomStringConvertibleP", "string"]
+- ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- ["s23CustomStringConvertibleP", "timeZone"]
+- !private ["s23CustomStringConvertibleP", "unlock"]
+- ["10Foundation4DateV", "Context"]
+- ["10Foundation4DateV", "Date"]
+- ["10Foundation4DateV", "DateFormatter"]
+- ["10Foundation4DateV", "NSLock"]
+- ["10Foundation4DateV", "Node"]
+- !private ["10Foundation4DateV", "NodeError"]
+- ["10Foundation4DateV", "deinit"]
+- ["10Foundation4DateV", "incomingDateFormatters"]
+- ["10Foundation4DateV", "incomingTimestamp"]
+- ["10Foundation4DateV", "init"]
+- ["10Foundation4DateV", "lock"]
+- ["10Foundation4DateV", "makeNode"]
+- ["10Foundation4DateV", "outgoingDateFormatter"]
+- ["10Foundation4DateV", "outgoingTimestamp"]
+- ["10Foundation4DateV", "timeIntervalSince1970"]
+- ["10Foundation13DateFormatterC", "DateFormatter"]
+- ["10Foundation13DateFormatterC", "Locale"]
+- ["10Foundation13DateFormatterC", "TimeZone"]
+- !private ["10Foundation13DateFormatterC", "date"]
+- ["10Foundation13DateFormatterC", "dateFormat"]
+- ["10Foundation13DateFormatterC", "init"]
+- ["10Foundation13DateFormatterC", "iso8601"]
+- ["10Foundation13DateFormatterC", "locale"]
+- ["10Foundation13DateFormatterC", "mysql"]
+- ["10Foundation13DateFormatterC", "rfc1123"]
+- ["10Foundation13DateFormatterC", "timeZone"]
+- !private ["9Debugging10DebuggableP", "unableToConvert"]
+- ["s9DecodableP", "Date"]
+- ["s9DecodableP", "NSLock"]
+- ["s9DecodableP", "Node"]
+- !private ["s9DecodableP", "NodeError"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "incomingDateFormatters"]
+- !private ["s9DecodableP", "incomingTimestamp"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "lazy"]
+- !private ["s9DecodableP", "lock"]
+- ["s9DecodableP", "makeNode"]
+- ["s9DecodableP", "timeIntervalSince1970"]
+- ["s9EncodableP", "Date"]
+- ["s9EncodableP", "NSLock"]
+- ["s9EncodableP", "Node"]
+- !private ["s9EncodableP", "NodeError"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "incomingDateFormatters"]
+- !private ["s9EncodableP", "incomingTimestamp"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "lazy"]
+- !private ["s9EncodableP", "lock"]
+- ["s9EncodableP", "makeNode"]
+- ["s9EncodableP", "timeIntervalSince1970"]
+- ["s9EquatableP", "Date"]
+- ["s9EquatableP", "DateFormatter"]
+- ["s9EquatableP", "Locale"]
+- ["s9EquatableP", "NSLock"]
+- ["s9EquatableP", "Node"]
+- !private ["s9EquatableP", "NodeError"]
+- ["s9EquatableP", "Number"]
+- ["s9EquatableP", "TimeZone"]
+- ["s9EquatableP", "date"]
+- ["s9EquatableP", "dateFormat"]
+- ["s9EquatableP", "double"]
+- !private ["s9EquatableP", "incomingDateFormatters"]
+- !private ["s9EquatableP", "incomingTimestamp"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "iso8601"]
+- ["s9EquatableP", "locale"]
+- !private ["s9EquatableP", "lock"]
+- ["s9EquatableP", "makeNode"]
+- ["s9EquatableP", "mysql"]
+- ["s9EquatableP", "number"]
+- ["s9EquatableP", "rfc1123"]
+- ["s9EquatableP", "string"]
+- ["s9EquatableP", "timeIntervalSince1970"]
+- ["s9EquatableP", "timeZone"]
+- !private ["s9EquatableP", "unlock"]
+- !private ["s9EquatableP", "wrapped"]
+- !private ["s5ErrorP", "unableToConvert"]
+- ["s25ExpressibleByArrayLiteralP", "Number"]
+- !private ["s25ExpressibleByArrayLiteralP", "date"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "lazy"]
+- !private ["s25ExpressibleByArrayLiteralP", "wrapped"]
+- ["s27ExpressibleByBooleanLiteralP", "Number"]
+- !private ["s27ExpressibleByBooleanLiteralP", "date"]
+- !private ["s27ExpressibleByBooleanLiteralP", "wrapped"]
+- ["s30ExpressibleByDictionaryLiteralP", "Number"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "date"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "wrapped"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Number"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "date"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "wrapped"]
+- ["s25ExpressibleByFloatLiteralP", "Number"]
+- !private ["s25ExpressibleByFloatLiteralP", "date"]
+- ["s25ExpressibleByFloatLiteralP", "double"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "wrapped"]
+- ["s27ExpressibleByIntegerLiteralP", "Number"]
+- !private ["s27ExpressibleByIntegerLiteralP", "date"]
+- ["s27ExpressibleByIntegerLiteralP", "double"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "wrapped"]
+- ["s23ExpressibleByNilLiteralP", "Number"]
+- !private ["s23ExpressibleByNilLiteralP", "date"]
+- !private ["s23ExpressibleByNilLiteralP", "wrapped"]
+- ["s26ExpressibleByStringLiteralP", "Number"]
+- !private ["s26ExpressibleByStringLiteralP", "date"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "wrapped"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "Number"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "date"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "wrapped"]
+- ["10Foundation9FormatterC", "DateFormatter"]
+- ["10Foundation9FormatterC", "Locale"]
+- ["10Foundation9FormatterC", "TimeZone"]
+- !private ["10Foundation9FormatterC", "date"]
+- ["10Foundation9FormatterC", "dateFormat"]
+- ["10Foundation9FormatterC", "init"]
+- ["10Foundation9FormatterC", "iso8601"]
+- ["10Foundation9FormatterC", "locale"]
+- ["10Foundation9FormatterC", "mysql"]
+- ["10Foundation9FormatterC", "rfc1123"]
+- ["10Foundation9FormatterC", "timeZone"]
+- ["4Node14FuzzyConverterP", "Number"]
+- !private ["4Node14FuzzyConverterP", "date"]
+- !private ["4Node14FuzzyConverterP", "wrapped"]
+- ["s8HashableP", "Date"]
+- ["s8HashableP", "DateFormatter"]
+- ["s8HashableP", "Locale"]
+- ["s8HashableP", "NSLock"]
+- ["s8HashableP", "Node"]
+- !private ["s8HashableP", "NodeError"]
+- ["s8HashableP", "TimeZone"]
+- !private ["s8HashableP", "date"]
+- ["s8HashableP", "dateFormat"]
+- !private ["s8HashableP", "incomingDateFormatters"]
+- !private ["s8HashableP", "incomingTimestamp"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "iso8601"]
+- ["s8HashableP", "locale"]
+- !private ["s8HashableP", "lock"]
+- ["s8HashableP", "makeNode"]
+- ["s8HashableP", "mysql"]
+- ["s8HashableP", "rfc1123"]
+- ["s8HashableP", "timeIntervalSince1970"]
+- ["s8HashableP", "timeZone"]
+- !private ["s8HashableP", "unlock"]
+- !private ["s27LazyBidirectionalCollectionV", "flatMap"]
+- !private ["s14LazyCollectionV", "first"]
+- !private ["s14LazyCollectionV", "flatMap"]
+- !private ["s22LazyCollectionProtocolP", "first"]
+- !private ["s22LazyCollectionProtocolP", "flatMap"]
+- !private ["s30LazyMapBidirectionalCollectionV", "first"]
+- !private ["s17LazyMapCollectionV", "first"]
+- !private ["s15LazyMapSequenceV", "first"]
+- !private ["s26LazyRandomAccessCollectionV", "flatMap"]
+- !private ["s12LazySequenceV", "first"]
+- !private ["s12LazySequenceV", "flatMap"]
+- !private ["s20LazySequenceProtocolP", "first"]
+- !private ["s20LazySequenceProtocolP", "flatMap"]
+- ["10Foundation6LocaleV", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["s17MutableCollectionP", "lazy"]
+- ["10Foundation8NSCodingP", "DateFormatter"]
+- ["10Foundation8NSCodingP", "Locale"]
+- ["10Foundation8NSCodingP", "TimeZone"]
+- !private ["10Foundation8NSCodingP", "date"]
+- ["10Foundation8NSCodingP", "dateFormat"]
+- ["10Foundation8NSCodingP", "init"]
+- ["10Foundation8NSCodingP", "iso8601"]
+- ["10Foundation8NSCodingP", "locale"]
+- ["10Foundation8NSCodingP", "mysql"]
+- ["10Foundation8NSCodingP", "rfc1123"]
+- ["10Foundation8NSCodingP", "timeZone"]
+- ["10Foundation9NSCopyingP", "DateFormatter"]
+- ["10Foundation9NSCopyingP", "Locale"]
+- ["10Foundation9NSCopyingP", "TimeZone"]
+- !private ["10Foundation9NSCopyingP", "date"]
+- ["10Foundation9NSCopyingP", "dateFormat"]
+- ["10Foundation9NSCopyingP", "init"]
+- ["10Foundation9NSCopyingP", "iso8601"]
+- ["10Foundation9NSCopyingP", "locale"]
+- ["10Foundation9NSCopyingP", "mysql"]
+- ["10Foundation9NSCopyingP", "rfc1123"]
+- ["10Foundation9NSCopyingP", "timeZone"]
+- ["10Foundation6NSLockC", "init"]
+- !private ["10Foundation6NSLockC", "lock"]
+- !private ["10Foundation6NSLockC", "unlock"]
+- ["10Foundation9NSLockingP", "init"]
+- !private ["10Foundation9NSLockingP", "lock"]
+- !private ["10Foundation9NSLockingP", "unlock"]
+- ["10Foundation8NSObjectC", "DateFormatter"]
+- ["10Foundation8NSObjectC", "Locale"]
+- ["10Foundation8NSObjectC", "TimeZone"]
+- !private ["10Foundation8NSObjectC", "date"]
+- ["10Foundation8NSObjectC", "dateFormat"]
+- ["10Foundation8NSObjectC", "init"]
+- ["10Foundation8NSObjectC", "iso8601"]
+- ["10Foundation8NSObjectC", "locale"]
+- !private ["10Foundation8NSObjectC", "lock"]
+- ["10Foundation8NSObjectC", "mysql"]
+- ["10Foundation8NSObjectC", "rfc1123"]
+- ["10Foundation8NSObjectC", "timeZone"]
+- !private ["10Foundation8NSObjectC", "unlock"]
+- ["10Foundation16NSObjectProtocolP", "DateFormatter"]
+- ["10Foundation16NSObjectProtocolP", "Locale"]
+- ["10Foundation16NSObjectProtocolP", "TimeZone"]
+- !private ["10Foundation16NSObjectProtocolP", "date"]
+- ["10Foundation16NSObjectProtocolP", "dateFormat"]
+- ["10Foundation16NSObjectProtocolP", "init"]
+- ["10Foundation16NSObjectProtocolP", "iso8601"]
+- ["10Foundation16NSObjectProtocolP", "locale"]
+- !private ["10Foundation16NSObjectProtocolP", "lock"]
+- ["10Foundation16NSObjectProtocolP", "mysql"]
+- ["10Foundation16NSObjectProtocolP", "rfc1123"]
+- ["10Foundation16NSObjectProtocolP", "timeZone"]
+- !private ["10Foundation16NSObjectProtocolP", "unlock"]
+- ["4NodeAAV", "Number"]
+- !private ["4NodeAAV", "date"]
+- !private ["4NodeAAV", "deinit"]
+- !private ["4NodeAAV", "wrapped"]
+- !private ["4Node0A5ErrorO", "deinit"]
+- !private ["4Node0A5ErrorO", "unableToConvert"]
+- ["4Node0A13InitializableP", "Date"]
+- ["4Node0A13InitializableP", "NSLock"]
+- ["4Node0A13InitializableP", "Node"]
+- !private ["4Node0A13InitializableP", "NodeError"]
+- ["4Node0A13InitializableP", "Number"]
+- ["4Node0A13InitializableP", "date"]
+- !private ["4Node0A13InitializableP", "first"]
+- !private ["4Node0A13InitializableP", "incomingDateFormatters"]
+- !private ["4Node0A13InitializableP", "incomingTimestamp"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "lazy"]
+- !private ["4Node0A13InitializableP", "lock"]
+- ["4Node0A13InitializableP", "makeNode"]
+- ["4Node0A13InitializableP", "number"]
+- ["4Node0A13InitializableP", "string"]
+- ["4Node0A13InitializableP", "timeIntervalSince1970"]
+- !private ["4Node0A13InitializableP", "wrapped"]
+- ["4Node0A13InitializableP", ""]
+- ["4Node0A13RepresentableP", "Date"]
+- ["4Node0A13RepresentableP", "NSLock"]
+- ["4Node0A13RepresentableP", "Node"]
+- !private ["4Node0A13RepresentableP", "NodeError"]
+- ["4Node0A13RepresentableP", "Number"]
+- ["4Node0A13RepresentableP", "date"]
+- !private ["4Node0A13RepresentableP", "first"]
+- !private ["4Node0A13RepresentableP", "incomingDateFormatters"]
+- !private ["4Node0A13RepresentableP", "incomingTimestamp"]
+- ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "lazy"]
+- !private ["4Node0A13RepresentableP", "lock"]
+- ["4Node0A13RepresentableP", "makeNode"]
+- ["4Node0A13RepresentableP", "number"]
+- ["4Node0A13RepresentableP", "string"]
+- ["4Node0A13RepresentableP", "timeIntervalSince1970"]
+- !private ["4Node0A13RepresentableP", "wrapped"]
+- ["4Node0A13RepresentableP", ""]
+- ["4Node14StructuredDataO6NumberO", "deinit"]
+- ["4Node14StructuredDataO6NumberO", "double"]
+- ["4Node14StructuredDataO6NumberO", "init"]
+- !private ["13PathIndexableAAP", "Date"]
+- ["13PathIndexableAAP", "Number"]
+- ["13PathIndexableAAP", "date"]
+- ["13PathIndexableAAP", "number"]
+- ["13PathIndexableAAP", "string"]
+- !private ["13PathIndexableAAP", "wrapped"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s22RandomAccessCollectionP", "flatMap"]
+- !private ["s22RandomAccessCollectionP", "lazy"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "lazy"]
+- ["10Foundation20ReferenceConvertibleP", "Date"]
+- ["10Foundation20ReferenceConvertibleP", "NSLock"]
+- ["10Foundation20ReferenceConvertibleP", "Node"]
+- !private ["10Foundation20ReferenceConvertibleP", "NodeError"]
+- !private ["10Foundation20ReferenceConvertibleP", "incomingDateFormatters"]
+- !private ["10Foundation20ReferenceConvertibleP", "incomingTimestamp"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "lock"]
+- ["10Foundation20ReferenceConvertibleP", "makeNode"]
+- ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["s8SequenceP", "first"]
+- !private ["s8SequenceP", "flatMap"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "lazy"]
+- !private ["SS", "deinit"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["4Node14StructuredDataO", "Date"]
+- ["4Node14StructuredDataO", "date"]
+- !private ["4Node14StructuredDataO", "deinit"]
+- ["4Node14StructuredDataO", "number"]
+- ["4Node14StructuredDataO", "string"]
+- ["4Node21StructuredDataWrapperP", "Number"]
+- !private ["4Node21StructuredDataWrapperP", "date"]
+- !private ["4Node21StructuredDataWrapperP", "wrapped"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["10Foundation8TimeZoneV", "init"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "lazy"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- !private ["s23_BidirectionalIndexableP", "flatMap"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "lazy"]
+- ["10Foundation13_CFBridgeableP", "Date"]
+- ["10Foundation13_CFBridgeableP", "NSLock"]
+- ["10Foundation13_CFBridgeableP", "Node"]
+- !private ["10Foundation13_CFBridgeableP", "NodeError"]
+- !private ["10Foundation13_CFBridgeableP", "first"]
+- !private ["10Foundation13_CFBridgeableP", "incomingDateFormatters"]
+- !private ["10Foundation13_CFBridgeableP", "incomingTimestamp"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "lazy"]
+- !private ["10Foundation13_CFBridgeableP", "lock"]
+- ["10Foundation13_CFBridgeableP", "makeNode"]
+- ["10Foundation13_CFBridgeableP", "timeIntervalSince1970"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "lazy"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s10_IndexableP", "first"]
+- !private ["s10_IndexableP", "flatMap"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "lazy"]
+- !private ["s14_IndexableBaseP", "first"]
+- !private ["s14_IndexableBaseP", "flatMap"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "lazy"]
+- !private ["s17_MutableIndexableP", "first"]
+- !private ["s17_MutableIndexableP", "lazy"]
+- ["10Foundation13_NSBridgeableP", "Date"]
+- ["10Foundation13_NSBridgeableP", "NSLock"]
+- ["10Foundation13_NSBridgeableP", "Node"]
+- !private ["10Foundation13_NSBridgeableP", "NodeError"]
+- !private ["10Foundation13_NSBridgeableP", "first"]
+- !private ["10Foundation13_NSBridgeableP", "incomingDateFormatters"]
+- !private ["10Foundation13_NSBridgeableP", "incomingTimestamp"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "lazy"]
+- !private ["10Foundation13_NSBridgeableP", "lock"]
+- ["10Foundation13_NSBridgeableP", "makeNode"]
+- ["10Foundation13_NSBridgeableP", "timeIntervalSince1970"]
+- ["10Foundation17_ObjectBridgeableP", "Date"]
+- ["10Foundation17_ObjectBridgeableP", "NSLock"]
+- ["10Foundation17_ObjectBridgeableP", "Node"]
+- !private ["10Foundation17_ObjectBridgeableP", "NodeError"]
+- !private ["10Foundation17_ObjectBridgeableP", "first"]
+- !private ["10Foundation17_ObjectBridgeableP", "incomingDateFormatters"]
+- !private ["10Foundation17_ObjectBridgeableP", "incomingTimestamp"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "lazy"]
+- !private ["10Foundation17_ObjectBridgeableP", "lock"]
+- ["10Foundation17_ObjectBridgeableP", "makeNode"]
+- ["10Foundation17_ObjectBridgeableP", "timeIntervalSince1970"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Date"]
+- ["10Foundation21_ObjectTypeBridgeableP", "NSLock"]
+- ["10Foundation21_ObjectTypeBridgeableP", "Node"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "NodeError"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "first"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "incomingDateFormatters"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "incomingTimestamp"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "lazy"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "lock"]
+- ["10Foundation21_ObjectTypeBridgeableP", "makeNode"]
+- ["10Foundation21_ObjectTypeBridgeableP", "timeIntervalSince1970"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- !private ["s22_RandomAccessIndexableP", "flatMap"]
+- !private ["s22_RandomAccessIndexableP", "lazy"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "lazy"]
+- !private ["s16_SequenceWrapperP", "first"]
+- !private ["s16_SequenceWrapperP", "flatMap"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "10Foundation13DateFormatterC"
+- !private "9Debugging10DebuggableP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "10Foundation9FormatterC"
+- "4Node14FuzzyConverterP"
+- "s8HashableP"
+- !private "s27LazyBidirectionalCollectionV"
+- !private "s14LazyCollectionV"
+- !private "s22LazyCollectionProtocolP"
+- !private "s30LazyMapBidirectionalCollectionV"
+- !private "s17LazyMapCollectionV"
+- !private "s15LazyMapSequenceV"
+- !private "s26LazyRandomAccessCollectionV"
+- !private "s12LazySequenceV"
+- !private "s20LazySequenceProtocolP"
+- "10Foundation6LocaleV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "10Foundation8NSCodingP"
+- "10Foundation9NSCopyingP"
+- "10Foundation6NSLockC"
+- "10Foundation9NSLockingP"
+- "10Foundation8NSObjectC"
+- "10Foundation16NSObjectProtocolP"
+- "4NodeAAV"
+- !private "4Node0A5ErrorO"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "4Node14StructuredDataO6NumberO"
+- "13PathIndexableAAP"
+- "13PathIndexable0A7IndexerP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "4Node14StructuredDataO"
+- "4Node21StructuredDataWrapperP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation8TimeZoneV"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s16_SequenceWrapperP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "9a7126fc2ee40f10bf3e3a73f1598ed1"

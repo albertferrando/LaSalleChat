@@ -1,0 +1,72 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Config"
+provides-nominal:
+- "7Sockets6ConfigV"
+provides-member:
+- ["7Sockets6ConfigV", ""]
+depends-top-level:
+- "AddressFamily"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Config"
+- "Protocol"
+- "SocketType"
+depends-member:
+- !private ["7Sockets13AddressFamilyO", "unspecified"]
+- !private ["7Sockets21CTypeInt32ConvertibleP", "TCP"]
+- !private ["7Sockets21CTypeInt32ConvertibleP", "UDP"]
+- !private ["7Sockets21CTypeInt32ConvertibleP", "datagram"]
+- !private ["7Sockets21CTypeInt32ConvertibleP", "stream"]
+- !private ["7Sockets21CTypeInt32ConvertibleP", "unspecified"]
+- ["7Sockets6ConfigV", "AddressFamily"]
+- ["7Sockets6ConfigV", "Bool"]
+- ["7Sockets6ConfigV", "Config"]
+- ["7Sockets6ConfigV", "Protocol"]
+- ["7Sockets6ConfigV", "SocketType"]
+- ["7Sockets6ConfigV", "TCP"]
+- ["7Sockets6ConfigV", "UDP"]
+- ["7Sockets6ConfigV", "addressFamily"]
+- ["7Sockets6ConfigV", "init"]
+- ["7Sockets6ConfigV", "protocolType"]
+- ["7Sockets6ConfigV", "reuseAddress"]
+- ["7Sockets6ConfigV", "socketType"]
+- !private ["s9EquatableP", "TCP"]
+- !private ["s9EquatableP", "UDP"]
+- !private ["s9EquatableP", "datagram"]
+- !private ["s9EquatableP", "stream"]
+- !private ["s9EquatableP", "unspecified"]
+- !private ["s8HashableP", "TCP"]
+- !private ["s8HashableP", "UDP"]
+- !private ["s8HashableP", "datagram"]
+- !private ["s8HashableP", "stream"]
+- !private ["s8HashableP", "unspecified"]
+- !private ["7Sockets8ProtocolO", "TCP"]
+- !private ["7Sockets8ProtocolO", "UDP"]
+- !private ["7Sockets10SocketTypeO", "datagram"]
+- !private ["7Sockets10SocketTypeO", "stream"]
+depends-nominal:
+- !private "7Sockets13AddressFamilyO"
+- !private "7Sockets21CTypeInt32ConvertibleP"
+- "7Sockets6ConfigV"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "7Sockets8ProtocolO"
+- !private "7Sockets10SocketTypeO"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "c2e980d4de40de24009eda4f12fcc781"

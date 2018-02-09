@@ -1,0 +1,222 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Embed"
+provides-nominal:
+- "4Leaf5EmbedC"
+- "4Leaf5EmbedC5ErrorO"
+provides-member:
+- ["4Leaf5EmbedC", ""]
+- ["4Leaf5EmbedC5ErrorO", ""]
+depends-top-level:
+- "ArgumentList"
+- !private "Array"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Embed"
+- "LeafError"
+- "Node"
+- "Parameter"
+- "Stem"
+- "StringLiteralType"
+- "Tag"
+- "TagTemplate"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesRepresentableP", "init"]
+- !private ["s10CollectionP", "first"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "first"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "constant"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- !private ["s9DecodableP", "first"]
+- ["s9DecodableP", "init"]
+- ["4Leaf5EmbedC", "ArgumentList"]
+- ["4Leaf5EmbedC", "Bool"]
+- ["4Leaf5EmbedC", "Error"]
+- ["4Leaf5EmbedC", "LeafError"]
+- ["4Leaf5EmbedC", "Node"]
+- ["4Leaf5EmbedC", "Parameter"]
+- ["4Leaf5EmbedC", "Stem"]
+- ["4Leaf5EmbedC", "TagTemplate"]
+- ["4Leaf5EmbedC", "compileBody"]
+- ["4Leaf5EmbedC", "deinit"]
+- ["4Leaf5EmbedC", "init"]
+- ["4Leaf5EmbedC", "makeArguments"]
+- ["4Leaf5EmbedC", "name"]
+- ["4Leaf5EmbedC", "postCompile"]
+- ["4Leaf5EmbedC", "render"]
+- ["4Leaf5EmbedC", "run"]
+- ["4Leaf5EmbedC", "shouldRender"]
+- !private ["s9EncodableP", "first"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "constant"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "name"]
+- !private ["s9EquatableP", "parameters"]
+- ["4Leaf5EmbedC5ErrorO", "Parameter"]
+- ["4Leaf5EmbedC5ErrorO", "_code"]
+- ["4Leaf5EmbedC5ErrorO", "_domain"]
+- ["4Leaf5EmbedC5ErrorO", "_userInfo"]
+- ["4Leaf5EmbedC5ErrorO", "deinit"]
+- ["4Leaf5EmbedC5ErrorO", "expectedSingleConstant"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "expectedSingleConstant"]
+- ["s5ErrorP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s8HashableP", "init"]
+- ["4Leaf0A5ErrorP", "_code"]
+- ["4Leaf0A5ErrorP", "_domain"]
+- ["4Leaf0A5ErrorP", "_userInfo"]
+- !private ["4Leaf0A5ErrorP", "expectedSingleConstant"]
+- ["4Leaf0A5ErrorP", ""]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["4Node0A13InitializableP", "first"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13RepresentableP", "first"]
+- ["4Node0A13RepresentableP", "init"]
+- ["4Leaf9ParameterO", "constant"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "first"]
+- ["s8SequenceP", "init"]
+- !private ["4Leaf4StemC", "spawnLeaf"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- !private ["4Leaf3TagP", "Error"]
+- !private ["4Leaf3TagP", "TagTemplate"]
+- ["4Leaf3TagP", "compileBody"]
+- ["4Leaf3TagP", "makeArguments"]
+- ["4Leaf3TagP", "name"]
+- ["4Leaf3TagP", "postCompile"]
+- ["4Leaf3TagP", "render"]
+- ["4Leaf3TagP", "run"]
+- ["4Leaf3TagP", "shouldRender"]
+- ["4Leaf3TagP", ""]
+- !private ["4Leaf11TagTemplateC", "init"]
+- !private ["4Leaf11TagTemplateC", "name"]
+- !private ["4Leaf11TagTemplateC", "parameters"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "first"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s10_IndexableP", "first"]
+- ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "first"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s17_MutableIndexableP", "first"]
+- !private ["10Foundation13_NSBridgeableP", "first"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "first"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "first"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "4Leaf5EmbedC"
+- "s9EncodableP"
+- "s9EquatableP"
+- "4Leaf5EmbedC5ErrorO"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "4Leaf0A5ErrorP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "4Leaf9ParameterO"
+- "13PathIndexable0A7IndexerP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- !private "4Leaf4StemC"
+- "SS"
+- "s14StringProtocolP"
+- "4Leaf3TagP"
+- !private "4Leaf11TagTemplateC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "47b730fdcddf8c9ed55b028981477486"

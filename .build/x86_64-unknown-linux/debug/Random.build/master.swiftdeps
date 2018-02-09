@@ -1,0 +1,10 @@
+version: "Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "3018c7db050341f92932aae7735af349"
+build_time: [1518177155, 573838582]
+inputs:
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/Array+Random.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/EmptyInitializable.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/Exports.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/OSRandom.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/RandomProtocol.swift": [1518177134, 0]
+  "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/random.git--6779847998837712990/Sources/Random/URandom.swift": [1518177134, 0]

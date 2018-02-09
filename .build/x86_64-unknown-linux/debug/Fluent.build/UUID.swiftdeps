@@ -1,0 +1,87 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UUID"
+provides-nominal:
+provides-member:
+- ["10Foundation4UUIDV", ""]
+- ["10Foundation4UUIDV", "random"]
+depends-top-level:
+- "Foundation"
+- "String"
+- "UUID"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "UUID"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s17CustomReflectableP", "UUID"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- !private ["s23CustomStringConvertibleP", "UUID"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- !private ["s9DecodableP", "UUID"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "uuidString"]
+- !private ["s9EncodableP", "UUID"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "uuidString"]
+- !private ["s9EquatableP", "UUID"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "uuidString"]
+- !private ["s8HashableP", "UUID"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "uuidString"]
+- !private ["4Node0A13InitializableP", "UUID"]
+- !private ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "uuidString"]
+- !private ["4Node0A13RepresentableP", "UUID"]
+- !private ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "uuidString"]
+- !private ["10Foundation20ReferenceConvertibleP", "UUID"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- ["10Foundation4UUIDV", "String"]
+- !private ["10Foundation4UUIDV", "UUID"]
+- !private ["10Foundation4UUIDV", "init"]
+- ["10Foundation4UUIDV", "random"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- !private ["10Foundation17_ObjectBridgeableP", "UUID"]
+- !private ["10Foundation17_ObjectBridgeableP", "init"]
+- !private ["10Foundation17_ObjectBridgeableP", "uuidString"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "UUID"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- !private ["10Foundation21_ObjectTypeBridgeableP", "uuidString"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "10Foundation4UUIDV"
+- !private "10Foundation17_ObjectBridgeableP"
+- !private "10Foundation21_ObjectTypeBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "c9417192572fee41107a00aa1af48658"

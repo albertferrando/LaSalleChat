@@ -1,0 +1,228 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Prepare"
+provides-nominal:
+- "14FluentProvider7PrepareV"
+provides-member:
+- ["14FluentProvider7PrepareV", ""]
+depends-top-level:
+- "Argument"
+- "Array"
+- "AssignmentPrecedence"
+- "Command"
+- "Config"
+- "ConfigInitializable"
+- "ConsoleProtocol"
+- "Option"
+- "Prepare"
+- "String"
+- "StringLiteralType"
+depends-member:
+- ["7Console8ArgumentP", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["4HTTP17BodyRepresentableP", "init"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["s10CollectionP", "init"]
+- ["7Console7CommandP", "Option"]
+- ["7Console7CommandP", "console"]
+- ["7Console7CommandP", "help"]
+- ["7Console7CommandP", "id"]
+- ["7Console7CommandP", "init"]
+- ["7Console7CommandP", "run"]
+- ["7Console7CommandP", "signature"]
+- ["7Console7CommandP", ""]
+- ["s10ComparableP", "init"]
+- !private ["7Configs6ConfigC", "resolveConsole"]
+- ["7Configs19ConfigInitializableP", "Option"]
+- ["7Configs19ConfigInitializableP", "console"]
+- ["7Configs19ConfigInitializableP", "help"]
+- ["7Configs19ConfigInitializableP", "id"]
+- ["7Configs19ConfigInitializableP", "init"]
+- ["7Configs19ConfigInitializableP", "run"]
+- ["7Configs19ConfigInitializableP", "signature"]
+- ["7Configs19ConfigInitializableP", ""]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["4SMTP25EmailAddressRepresentableP", "init"]
+- ["4SMTP22EmailBodyRepresentableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "resolveConsole"]
+- !private ["s25ExpressibleByArrayLiteralP", "resolveConsole"]
+- !private ["s27ExpressibleByBooleanLiteralP", "resolveConsole"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "resolveConsole"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "resolveConsole"]
+- !private ["s25ExpressibleByFloatLiteralP", "resolveConsole"]
+- !private ["s27ExpressibleByIntegerLiteralP", "resolveConsole"]
+- !private ["s23ExpressibleByNilLiteralP", "resolveConsole"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "resolveConsole"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "resolveConsole"]
+- ["s8HashableP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "resolveConsole"]
+- ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "resolveConsole"]
+- ["7Console6OptionV", "init"]
+- ["7Routing15ParameterizableP", "init"]
+- !private ["13PathIndexableAAP", "resolveConsole"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- ["14FluentProvider7PrepareV", "Argument"]
+- ["14FluentProvider7PrepareV", "Config"]
+- ["14FluentProvider7PrepareV", "ConsoleProtocol"]
+- ["14FluentProvider7PrepareV", "Option"]
+- ["14FluentProvider7PrepareV", "String"]
+- ["14FluentProvider7PrepareV", "console"]
+- ["14FluentProvider7PrepareV", "deinit"]
+- ["14FluentProvider7PrepareV", "help"]
+- ["14FluentProvider7PrepareV", "id"]
+- ["14FluentProvider7PrepareV", "init"]
+- ["14FluentProvider7PrepareV", "run"]
+- ["14FluentProvider7PrepareV", "signature"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["5Vapor23RequestContentSubscriptP", "init"]
+- ["4HTTP21ResponseRepresentableP", "init"]
+- ["7Console8RunnableP", "Option"]
+- ["7Console8RunnableP", "console"]
+- ["7Console8RunnableP", "help"]
+- ["7Console8RunnableP", "id"]
+- ["7Console8RunnableP", "init"]
+- ["7Console8RunnableP", "run"]
+- ["7Console8RunnableP", "signature"]
+- ["7Console8RunnableP", ""]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- !private ["4Node21StructuredDataWrapperP", "resolveConsole"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "7Console8ArgumentP"
+- "s23BidirectionalCollectionP"
+- "4HTTP17BodyRepresentableP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s10CollectionP"
+- "7Console7CommandP"
+- "s10ComparableP"
+- !private "7Configs6ConfigC"
+- "7Configs19ConfigInitializableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "7Console6OptionV"
+- "7Routing15ParameterizableP"
+- !private "13PathIndexableAAP"
+- "13PathIndexable0A7IndexerP"
+- "14FluentProvider7PrepareV"
+- "s26RangeReplaceableCollectionP"
+- "5Vapor23RequestContentSubscriptP"
+- "4HTTP21ResponseRepresentableP"
+- "7Console8RunnableP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- !private "4Node21StructuredDataWrapperP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- "10Foundation13_CFBridgeableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SMTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/FormData.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cache.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Vapor.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Branches.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cookies.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Configs.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sessions.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/WebSockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Fluent.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/BCrypt.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/sqlite.git--1096032938665444374/Sources/CSQLite/include/sqlite3.h"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "dc62d1427fe1d367676e16b43e91b479"

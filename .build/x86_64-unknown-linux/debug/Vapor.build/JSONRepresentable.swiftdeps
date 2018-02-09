@@ -1,0 +1,135 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "4JSONAAV"
+provides-member:
+- ["4JSONAAV", ""]
+depends-top-level:
+- "JSON"
+- "Response"
+- "ResponseRepresentable"
+depends-member:
+- !private ["5Vapor10AbortErrorP", "ok"]
+- !private ["4HTTP17BodyRepresentableP", "Response"]
+- ["4HTTP17BodyRepresentableP", "makeResponse"]
+- !private ["4Bits16BytesConvertibleP", "Response"]
+- ["4Bits16BytesConvertibleP", "makeResponse"]
+- !private ["4Bits18BytesInitializableP", "Response"]
+- ["4Bits18BytesInitializableP", "makeResponse"]
+- !private ["4Bits18BytesRepresentableP", "Response"]
+- ["4Bits18BytesRepresentableP", "makeResponse"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9EquatableP", "Response"]
+- ["s9EquatableP", "makeResponse"]
+- !private ["s9EquatableP", "ok"]
+- !private ["s5ErrorP", "ok"]
+- !private ["s25ExpressibleByArrayLiteralP", "Response"]
+- ["s25ExpressibleByArrayLiteralP", "makeResponse"]
+- !private ["s27ExpressibleByBooleanLiteralP", "Response"]
+- ["s27ExpressibleByBooleanLiteralP", "makeResponse"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Response"]
+- ["s30ExpressibleByDictionaryLiteralP", "makeResponse"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Response"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeResponse"]
+- !private ["s25ExpressibleByFloatLiteralP", "Response"]
+- ["s25ExpressibleByFloatLiteralP", "makeResponse"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Response"]
+- ["s27ExpressibleByIntegerLiteralP", "makeResponse"]
+- !private ["s23ExpressibleByNilLiteralP", "Response"]
+- ["s23ExpressibleByNilLiteralP", "makeResponse"]
+- !private ["s26ExpressibleByStringLiteralP", "Response"]
+- ["s26ExpressibleByStringLiteralP", "makeResponse"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Response"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "makeResponse"]
+- !private ["4Node14FuzzyConverterP", "Response"]
+- ["4Node14FuzzyConverterP", "makeResponse"]
+- !private ["s8HashableP", "ok"]
+- ["4JSONAAV", "Response"]
+- ["4JSONAAV", "deinit"]
+- ["4JSONAAV", "makeResponse"]
+- !private ["4JSON17JSONRepresentableP", "Response"]
+- ["4JSON17JSONRepresentableP", "makeResponse"]
+- !private ["4HTTP7MessageP", "init"]
+- !private ["4Node0A13InitializableP", "Response"]
+- ["4Node0A13InitializableP", "makeResponse"]
+- !private ["4Node0A13RepresentableP", "Response"]
+- ["4Node0A13RepresentableP", "makeResponse"]
+- !private ["13PathIndexableAAP", "Response"]
+- ["13PathIndexableAAP", "makeResponse"]
+- !private ["4HTTP8ResponseC", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "Response"]
+- !private ["4HTTP21ResponseRepresentableP", "init"]
+- ["4HTTP21ResponseRepresentableP", "makeResponse"]
+- ["4HTTP21ResponseRepresentableP", ""]
+- !private ["4HTTP6StatusO", "ok"]
+- !private ["4Node21StructuredDataWrapperP", "Response"]
+- ["4Node21StructuredDataWrapperP", "makeResponse"]
+depends-nominal:
+- !private "5Vapor10AbortErrorP"
+- "4HTTP17BodyRepresentableP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- !private "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "4Node14FuzzyConverterP"
+- !private "s8HashableP"
+- "4JSONAAV"
+- "4JSON17JSONRepresentableP"
+- !private "4HTTP7MessageP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "13PathIndexableAAP"
+- !private "4HTTP8ResponseC"
+- "4HTTP21ResponseRepresentableP"
+- !private "4HTTP6StatusO"
+- "4Node21StructuredDataWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/URI.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/JSON.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/SMTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/TLS.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/FormData.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/libc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Node.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cache.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/PathIndexable.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Branches.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Cookies.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Configs.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sessions.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Sockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/WebSockets.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/BCrypt.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/Transport.swiftmodule"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/engine.git--7533756970564908605/Sources/CHTTP/include/http_parser.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/checkouts/ctls.git--2818177660473049491/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CHTTP.build/module.modulemap"
+- "/home/albertfega/Desktop/LaSalleChat/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+interface-hash: "c988418c7439b3f82d32ab2d8a255e6c"
